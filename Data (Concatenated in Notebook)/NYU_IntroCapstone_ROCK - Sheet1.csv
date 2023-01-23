@@ -1,0 +1,898 @@
+#,Title,Artist,Release,BPM,Energy,Dance,Loud,Valence,Length,Acoustic,Pop.,A.Sep,Rnd,Genre
+1,Love Abuser (Save Me),Royal & the Serpent,2022-10-07,167,82,31,-3,46,3:07,0,58,2,8587,Rock
+2,Hey You,Disturbed,2022-07-14,103,98,50,-3,51,4:28,0,64,6,5803,Rock
+3,San Quentin,Nickelback,2022-09-07,124,93,67,-4,83,3:31,0,68,3,58,Rock
+4,Save Yourself,ONE OK ROCK,2022-06-24,165,85,50,-3,76,3:18,0,57,42,7945,Rock
+5,THE LONELIEST,Måneskin,2022-10-07,130,60,52,-5,24,4:07,0,86,43,4983,Rock
+6,This Is Why,Paramore,2022-09-28,123,74,72,-8,69,3:28,0,77,44,2045,Rock
+7,Emergency Contact,Pierce The Veil,2022-11-11,113,83,54,-4,40,4:00,0,67,12,7716,Rock
+8,EDGING,blink-182,2022-10-14,144,91,61,-3,71,2:32,0,76,134,3231,Rock
+9,I’m a Mess (with YUNGBLUD),Avril Lavigne,2022-11-03,91,67,47,-4,40,3:08,1,73,135,1760,Rock
+10,What Happens After You?,Weezer,2022-09-22,123,61,65,-8,54,3:20,1,55,136,7266,Rock
+11,Natural Born Killer,Highly Suspect,2022-06-22,195,74,20,-5,16,3:16,0,60,45,3515,Rock
+12,curious/furious,WILLOW,2022-10-07,142,76,55,-11,70,3:05,7,60,0,6512,Rock
+13,Supernatural,Barns Courtney,2022-09-09,98,85,58,-4,61,2:47,3,64,137,7553,Rock
+14,Beguiled,The Smashing Pumpkins,2022-09-20,117,61,70,-7,45,3:58,0,63,46,1731,Rock
+15,Kill Or Be Killed,Muse,2022-08-26,125,99,25,-2,19,4:59,0,62,4,9370,Rock
+16,Just Pretend,Bad Omens,2022-02-25,140,83,46,-5,20,3:25,0,74,138,1937,Rock
+17,Bad Things,I Prevail,2022-07-13,92,84,50,-5,14,3:48,0,60,13,1353,Rock
+18,September Rain,Cassyette,2022-09-07,160,90,40,-4,27,3:34,0,56,14,547,Rock
+19,Fallin' With Me,The Struts,2022-08-19,126,92,64,-2,77,2:42,1,57,47,2121,Rock
+20,Eddie,Red Hot Chili Peppers,2022-10-14,142,81,52,-6,53,5:42,0,66,5,4604,Rock
+21,Tissues,YUNGBLUD,2022-09-02,90,90,61,-3,81,3:35,1,64,7,5511,Rock
+22,Sharks,Imagine Dragons,2022-07-01,124,64,93,-4,90,3:11,1,73,48,4743,Rock
+23,Sleepwalking,All Time Low,2022-10-07,176,68,42,-3,58,3:07,2,67,139,6791,Rock
+24,sTraNgeRs,Bring Me The Horizon,2022-07-06,183,94,35,-3,53,3:16,0,74,49,8088,Rock
+25,Riptide,Beartooth,2022-07-12,128,93,48,-3,55,3:31,0,64,140,3496,Rock
+26,HOLIDAY,Turnstile,2021-08-27,155,86,54,-8,32,2:52,0,63,141,9908,Rock
+27,Otherside,Ayron Jones,2022-11-04,112,71,44,-6,23,3:47,0,49,50,2060,Rock
+28,Pages,White Reaper,2022-10-26,117,74,53,-5,44,2:34,0,54,142,3584,Rock
+29,Miracle,A Day To Remember,2022-07-21,160,92,46,-4,37,4:04,0,67,143,2724,Rock
+30,Times Like These,Five Finger Death Punch,2022-08-19,74,94,44,-4,59,3:30,1,65,51,4554,Rock
+31,CYAN1DE (feat. Pete Wentz),"nothing,nowhere.",2022-11-04,170,88,40,-8,11,3:52,0,58,144,4684,Rock
+32,ANIMAL,PVRIS,2022-10-21,160,73,52,-6,77,2:51,10,61,145,8124,Rock
+33,tear gas,Architects,2022-10-21,86,88,51,-4,35,4:18,0,61,52,4712,Rock
+34,Let You Down (feat. Charlotte Sands),Sleeping With Sirens,2022-08-11,174,94,44,-3,62,3:26,0,55,15,6436,Rock
+35,Say It (To My Face),Meet Me @ The Altar,2022-09-30,165,91,51,-5,66,2:39,0,53,16,2882,Rock
+36,FUCK ABOUT IT (feat. blackbear),Waterparks,2022-10-14,158,87,49,-4,46,2:52,2,65,53,9563,Rock
+37,Jealousy,Pale Waves,2022-08-12,141,90,52,-2,70,3:13,1,55,54,1860,Rock
+38,Line It Up (feat. LP),Palaye Royale,2022-10-28,83,79,45,-6,47,4:01,2,58,17,5938,Rock
+39,dead inside,blackbear,2022-08-26,148,93,56,-3,83,3:03,0,61,146,4849,Rock
+40,Without Me,Dayseeker,2022-11-04,92,81,38,-4,15,3:45,2,57,55,6512,Rock
+41,THREE HEADS*,Jean Dawson,2022-08-19,140,88,56,-4,61,2:52,44,56,8,4707,Rock
+42,Permanent Rebellion,L.S. Dunes,2022-11-11,177,98,39,-3,29,3:14,0,50,18,6506,Rock
+43,Here to Forever,Death Cab for Cutie,2022-09-16,158,77,62,-8,93,3:46,7,61,147,2163,Rock
+44,All Comes Crashing,Metric,2022-04-28,111,69,70,-7,30,4:23,1,54,19,4463,Rock
+45,Place Your Debts,Jimmy Eat World,2022-10-19,88,46,34,-7,6,5:10,0,54,56,8671,Rock
+46,Raised By Wolves,The Interrupters,2022-08-05,135,87,54,-2,70,3:02,1,54,148,3039,Rock
+47,Sober,jxdn,2022-11-11,142,86,56,-3,54,2:32,0,61,150,6440,Rock
+48,you're not special,Maggie Lindemann,2022-07-15,76,53,70,-7,37,2:47,5,54,20,9404,Rock
+49,TAKE THIS CROWN (feat. Good Charlotte),DE'WAYNE,2022-10-28,160,95,46,-5,27,3:36,0,48,1,9703,Rock
+50,u turn me on (but u give me depression),LØLØ,2022-08-19,118,82,70,-2,91,2:28,1,58,21,7135,Rock
+51,I'm In Love With You,The 1975,2022-09-01,119,90,67,-4,91,4:23,17,74,151,3984,Rock
+52,Wet Dream,Wet Leg,2022-04-08,130,70,72,-6,89,2:20,0,70,152,2862,Rock
+53,New Gold (feat. Tame Impala and Bootie Brown),Gorillaz,2022-08-31,108,92,70,-4,55,3:35,4,79,153,4643,Rock
+54,"Sex, Drugs, Etc.",Beach Weather,2016-11-04,144,84,57,-5,47,3:17,1,89,57,3217,Rock
+55,Tonight (feat. Ezra Koenig),Phoenix,2022-11-04,142,74,67,-7,89,4:07,5,58,58,6061,Rock
+56,Burning,Yeah Yeah Yeahs,2022-09-30,116,80,53,-5,19,4:05,4,61,154,5453,Rock
+57,I Won't,AJR,2022-07-29,162,72,42,-8,38,2:49,1,69,59,2873,Rock
+58,the perfect pair,beabadoobee,2022-07-15,146,66,63,-7,60,2:58,43,76,155,3801,Rock
+59,Tripping Over Air,Aidan Bissett,2022-09-09,117,80,62,-5,60,3:02,0,71,156,8379,Rock
+60,curious/furious,WILLOW,2022-09-09,142,75,55,-11,69,3:05,7,62,149,993,Rock
+61,Sick of U (with Oliver Tree),BoyWithUke,2022-09-30,93,81,68,-3,60,2:49,28,79,157,8579,Rock
+62,Natural Born Killer,Highly Suspect,2022-09-09,195,74,20,-5,16,3:16,0,58,763,4442,Rock
+63,sail away,lovelytheband,2022-06-24,120,84,74,-5,96,2:59,25,70,158,4711,Rock
+64,Love Abuser (Save Me),Royal & the Serpent,2022-10-28,167,82,31,-3,46,3:07,0,48,224,1399,Rock
+65,Cut Deep,Matt Maeson,2022-08-26,160,83,58,-4,60,2:57,57,59,159,3381,Rock
+66,Tissues,YUNGBLUD,2022-08-30,90,91,61,-3,82,3:35,1,66,298,498,Rock
+67,tired of california,Nessa Barrett,2022-10-14,92,73,71,-6,64,3:11,23,66,22,4279,Rock
+68,"don't sleep, repeat (feat. Machine Gun Kelly)",44phantom,2022-08-19,145,72,67,-4,41,2:29,24,66,60,5871,Rock
+69,Did I Make You Up?,half•alive,2022-10-13,95,62,72,-6,29,2:30,46,62,160,6094,Rock
+70,Troubled Man,Milky Chance,2022-09-21,124,65,96,-7,89,2:35,37,60,161,7853,Rock
+71,October Passed Me By,girl in red,2022-10-14,156,37,45,-13,20,2:46,76,77,162,9397,Rock
+72,Surefire,Wilderado,2021-10-15,126,70,66,-6,72,4:01,1,54,163,2478,Rock
+73,Thursday,Starcrawler,2022-09-16,165,94,42,-3,67,2:22,0,40,164,4938,Rock
+74,Everybody's Cool,Two Door Cinema Club,2022-09-02,106,71,70,-4,56,4:22,5,53,165,4258,Rock
+75,Dummy,The Regrettes,2022-11-11,95,60,77,-6,81,3:16,58,45,166,4294,Rock
+76,Run Away to Mars,TALK,2021-06-23,119,38,55,-11,28,3:34,53,77,167,1102,Rock
+77,Morning Blue,Giant Rooks,2022-07-08,108,86,63,-3,71,3:37,8,62,168,4680,Rock
+78,Leader of the Pack,Wunderhorse,2022-10-07,95,97,51,-4,59,3:03,0,52,23,6148,Rock
+79,Growing/Dying,The Backseat Lovers,2022-08-19,90,40,47,-8,24,3:32,2,58,169,3288,Rock
+80,It Ain't Over,The Black Keys,2022-05-13,120,56,76,-7,51,3:49,3,56,170,6809,Rock
+81,Bones,Imagine Dragons,2022-07-01,114,75,77,-4,59,2:45,2,85,764,5908,Rock
+82,You Make Me Feel Like It’s Halloween,Muse,2022-08-26,123,94,51,-3,53,3:00,0,67,225,244,Rock
+83,SINS,Red Leather,2022-08-26,176,71,50,-4,65,2:58,13,64,61,7011,Rock
+84,SICK OF IT*,Jean Dawson,2022-10-07,95,99,46,-4,33,2:09,0,52,300,7659,Rock
+85,All Comes Crashing,Metric,2022-07-08,111,69,70,-7,30,4:23,1,55,453,6191,Rock
+86,Stars,Andrew McMahon in the Wilderness,2022-08-17,81,63,51,-7,38,4:30,0,47,62,9768,Rock
+87,Don't Let The Light Go Out,Panic! At The Disco,2022-08-19,118,59,49,-4,18,3:50,0,64,171,3208,Rock
+88,Skinny Little Missy,Nickelback,2022-11-18,84,88,56,-5,61,3:38,0,53,226,5007,Rock
+89,Beyond the Vale,The Smashing Pumpkins,2022-11-15,115,71,65,-7,76,3:43,0,52,765,2850,Rock
+90,Break the Mold,Saint Asonia,2022-11-18,105,91,53,-4,46,3:00,0,43,172,5918,Rock
+91,Sleepwalking,Smash Into Pieces,2022-11-18,92,90,43,-5,33,3:47,0,48,173,7621,Rock
+92,Sensation,✝✝✝ (Crosses),2022-11-18,136,52,52,-6,9,4:36,0,44,63,1091,Rock
+93,Bull,Enter Shikari,2022-11-16,113,70,34,-6,45,3:11,2,47,174,6879,Rock
+94,Dressed to Kill,The Wombats,2022-11-18,150,79,52,-7,73,2:53,0,48,175,1897,Rock
+95,Taste the Money,FIDLAR,2022-11-18,95,88,35,-5,40,2:36,0,38,176,1574,Rock
+96,Fingers of Steel,shame,2022-11-15,127,93,36,-6,19,4:21,0,44,177,5355,Rock
+97,Where Do I Sign?,Weathers,2022-11-16,180,77,41,-5,52,3:12,0,43,178,2423,Rock
+98,Floating Like,Arkells,2022-11-17,189,80,46,-4,83,3:04,0,37,64,8758,Rock
+99,From Hell to Here,HIMALAYAS,2022-11-18,166,73,18,-5,53,2:56,0,34,65,8769,Rock
+100,Guiding Light,Caskets,2022-11-18,108,89,52,-6,30,4:22,0,47,180,3446,Rock
+101,T Love - Extended,Quarters of Change,2022-11-18,121,90,64,-5,50,5:59,0,33,181,1025,Rock
+102,The Dominoes,Mustard Service,2022-11-18,150,96,51,-6,91,2:12,0,36,182,7272,Rock
+103,SHOUT,girlfriends,2022-11-18,135,91,63,-4,67,2:26,0,39,66,4290,Rock
+104,Daylight,Birds Of Tokyo,2022-11-18,112,76,57,-5,57,4:03,13,32,183,2862,Rock
+105,Party Scene,Luca Brasi,2022-11-16,130,90,49,-2,46,2:57,1,32,184,34,Rock
+106,Ethel,The Murder Capital,2022-11-16,120,68,57,-9,23,4:29,1,36,185,1279,Rock
+107,The Kingdom,DEADLETTER,2022-11-18,128,57,72,-11,61,3:24,1,24,186,9974,Rock
+108,SWALLOWS – WHERE ARE THE SWALLOWS GONNA BUILD THEIR NEST,The Inspector Cluzo,2022-11-18,174,27,37,-11,35,4:18,54,26,187,7396,Rock
+109,Faded (Bye Bye Baby),The Stone Foxes,2022-11-18,160,89,33,-5,61,3:43,1,28,188,4283,Rock
+110,We Could Start A War,Somebody's Child,2022-11-16,183,87,26,-5,26,3:37,1,35,189,1526,Rock
+111,Nauseous,Annie DiRusso,2022-11-18,112,77,52,-5,41,3:19,37,37,190,5572,Rock
+112,Que Sera,Foxblood,2022-11-18,133,92,51,-3,27,3:49,0,31,191,1516,Rock
+113,M4U,The Rocket Summer,2022-11-18,100,63,59,-8,21,3:25,0,30,192,5700,Rock
+114,Black Tank Top,George Barnett,2022-11-18,131,73,66,-4,70,3:22,1,27,67,1457,Rock
+115,Bye Bye Big Bear,The Dirty Nil,2022-11-18,96,72,41,-5,46,2:57,1,36,193,6063,Rock
+116,Moto,STONE,2022-11-18,135,91,44,-6,49,2:46,0,30,68,6818,Rock
+117,Retina (Begging's Better),False Heads,2022-11-18,130,76,61,-8,49,3:18,0,24,69,5971,Rock
+118,Apeshit,The Sound Of Animals Fighting,2022-11-16,150,81,42,-6,37,5:18,0,39,194,5846,Rock
+119,kill you,swim school,2022-11-16,134,52,45,-7,36,3:08,1,30,195,3650,Rock
+120,The Last Time,ARXX,2022-11-18,102,56,65,-7,52,3:08,3,25,196,4154,Rock
+121,Piece Of You,Storm Orchestra,2022-11-18,78,97,44,-6,47,4:15,0,25,197,4454,Rock
+122,Jillian,Halo Kitsch,2022-11-18,124,40,48,-8,8,2:28,42,23,198,4370,Rock
+123,OMG,Neighbourhood Void,2022-11-18,135,59,56,-7,26,2:21,1,22,199,7217,Rock
+124,Hospital Tree,Jamie Lenman,2022-11-17,156,67,43,-6,51,3:17,1,25,200,3466,Rock
+125,Time To Break Up The Band,KOATS,2022-11-18,125,75,76,-6,89,2:49,67,19,201,8641,Rock
+126,Chewing Glass,James and the Cold Gun,2022-11-18,153,97,39,-5,18,3:04,0,25,202,5081,Rock
+127,wasted,BESTIES,2022-11-16,168,82,54,-6,63,2:48,0,27,203,9820,Rock
+128,3:00 AM,overpass,2022-11-17,146,94,38,-3,37,3:31,1,29,204,6513,Rock
+129,Like You Love Me,44Blonde,2022-11-18,123,74,63,-5,67,2:27,2,26,205,6854,Rock
+130,So Far Gone,Weird Nightmare,2022-11-16,145,90,40,-7,60,4:22,2,26,206,5072,Rock
+131,Jimmy (Lookin’ like Trash),Grace McKagan,2022-11-18,107,85,53,-5,63,2:51,0,21,207,9613,Rock
+132,Rags of Love,Tempesst,2022-11-16,107,57,48,-8,24,4:43,17,28,208,2696,Rock
+133,Hollow Stone,Ulysses Wells,2022-11-18,78,63,51,-7,36,4:46,30,19,209,3111,Rock
+134,saggy genes,"yeah, sure",2022-11-18,111,78,53,-6,43,3:24,0,20,210,8529,Rock
+135,Scopaesthesia,Moonball,2022-11-18,79,97,11,-5,17,3:09,0,21,70,9862,Rock
+136,Stay with Me,Back On Earth,2022-11-17,135,88,47,-3,38,2:31,0,22,211,8882,Rock
+137,Teenage Lines,alltheprettythings,2022-11-16,160,97,46,-4,46,3:45,0,21,212,3469,Rock
+138,Hey You,Disturbed,2022-11-18,103,98,50,-3,51,4:28,0,52,301,6247,Rock
+139,San Quentin,Nickelback,2022-11-18,124,93,67,-4,83,3:31,0,52,449,9270,Rock
+140,Glitch,Parkway Drive,2022-06-07,106,87,55,-4,37,4:22,0,57,213,9727,Rock
+141,Werewolf,Motionless In White,2022-06-10,95,95,50,-3,52,3:32,0,64,214,8744,Rock
+142,Surrender,Godsmack,2022-09-28,170,95,56,-5,72,3:41,1,61,215,8089,Rock
+143,JACK,HARDY,2022-09-30,125,60,55,-6,49,2:49,3,69,216,8580,Rock
+144,Bad Things,I Prevail,2022-08-19,92,84,50,-5,14,3:48,0,66,454,2249,Rock
+145,Daylight,Shinedown,2022-07-01,181,54,26,-6,34,4:01,42,56,217,527,Rock
+146,Voices In My Head,Falling In Reverse,2022-05-31,173,90,55,-3,64,3:11,3,72,218,8988,Rock
+147,Paranoid (Crash & Burn),Pop Evil,2022-09-30,95,93,49,-6,40,3:56,0,52,219,6061,Rock
+148,Thousand Lifetimes,Fire From The Gods,2022-10-28,93,91,33,-4,53,3:13,2,49,220,4139,Rock
+149,Faded Out (feat. Within Temptation),Asking Alexandria,2022-05-20,75,94,48,-5,53,3:06,0,61,221,6275,Rock
+150,Make Believe,Memphis May Fire,2022-02-18,131,92,56,-4,49,3:49,0,51,222,6249,Rock
+151,Divide,The Plot In You,2022-10-25,150,97,45,-4,57,3:29,0,59,223,4041,Rock
+152,Silver Tongue,Alter Bridge,2022-10-14,141,93,43,-6,35,4:19,0,55,71,792,Rock
+153,More Than Machines,Bush,2022-10-07,93,84,51,-4,73,3:22,0,52,24,8289,Rock
+154,I Am The Weapon,Three Days Grace,2022-05-06,119,83,30,-3,74,2:56,0,56,228,9924,Rock
+155,YOU DON'T KNOW WHAT LOVE MEANS,NOTHING MORE,2022-10-14,170,92,23,-6,25,4:09,0,52,229,9754,Rock
+156,Devil,Black Veil Brides,2022-10-21,195,94,32,-4,50,3:24,0,58,230,551,Rock
+157,Flying,Cory Marks,2022-11-11,90,98,52,-4,37,3:10,0,43,231,125,Rock
+158,A Disappearing Act,Coheed and Cambria,2022-06-24,133,92,53,-3,54,3:30,1,54,232,7950,Rock
+159,Waiting On The Sky To Change,STARSET,2022-08-19,168,93,37,-4,31,4:04,0,65,233,2317,Rock
+160,MIDDLE OF THE NIGHT,Loveless,2022-09-16,93,94,38,-6,16,3:06,0,63,72,3162,Rock
+161,Pass The Nirvana,Pierce The Veil,2022-09-01,143,90,54,-5,62,3:17,0,70,455,281,Rock
+162,Past Lives,L.S. Dunes,2022-11-11,83,94,45,-3,38,4:11,0,51,456,6802,Rock
+163,Let You Down (feat. Charlotte Sands),Sleeping With Sirens,2022-10-14,174,94,44,-3,62,3:26,0,54,457,6780,Rock
+164,Worst Is On Its Way,Korn,2022-02-04,95,99,39,-3,13,4:04,0,52,73,3616,Rock
+165,Mine,Halestorm,2022-10-28,138,89,49,-4,23,4:20,1,54,234,4564,Rock
+166,Dinosaur,Theory of a Deadman,2022-10-20,148,85,27,-5,34,3:48,0,54,235,8992,Rock
+167,Without Me,Dayseeker,2022-08-26,93,82,42,-4,16,3:44,1,60,766,9033,Rock
+168,The Rapture (but it’s Pink) [feat. Mothica],Scene Queen,2022-11-10,160,79,50,-4,43,2:29,0,53,236,5602,Rock
+169,Crocus,Boston Manor,2022-10-14,93,70,50,-5,22,3:57,0,50,237,9454,Rock
+170,Hurts Like Hell,New Years Day,2022-08-12,125,95,49,-4,47,3:11,0,46,238,8750,Rock
+171,Under The Knife,BRKN LOVE,2022-09-23,143,92,48,-5,60,2:56,0,39,25,9799,Rock
+172,High on Me,Saliva,2022-11-11,95,87,53,-6,46,3:03,0,50,239,5641,Rock
+173,Evil World Machine - Extended,Crossbone Skully,2022-11-18,120,91,61,-6,34,6:11,0,26,240,9854,Rock
+174,Our Time Is Now,Gojira,2022-10-14,99,95,23,-3,40,4:31,0,61,241,4098,Rock
+175,The End (feat. Scarlxrd),Zero 9:36,2022-11-11,108,95,54,-5,54,2:40,0,49,242,5673,Rock
+176,Welcome to the Chaos (feat. Spencer Charnas of Ice Nine Kills),Fame on Fire,2022-07-22,160,95,46,-5,50,3:29,0,60,243,9181,Rock
+177,Drown,Kim Dracula,2022-11-18,119,83,64,-5,48,2:46,0,45,244,9098,Rock
+178,No More Tears To Cry,Bullet For My Valentine,2022-07-29,95,94,43,-5,45,3:41,0,52,245,1070,Rock
+179,Overrated,Giovannie and the Hired Guns,2022-09-27,169,84,21,-6,45,3:39,0,51,246,5771,Rock
+180,Frenzy,Iggy Pop,2022-10-28,75,99,39,-3,20,3:01,0,56,247,7481,Rock
+181,Vivien,✝✝✝ (Crosses),2022-10-28,180,75,41,-5,16,3:53,0,56,767,5413,Rock
+182,Dance Devil Dance,Avatar,2022-10-28,125,97,50,-4,62,4:01,0,53,248,4260,Rock
+183,The Perfume of Decay,Tigercub,2022-10-12,138,87,40,-4,57,3:41,0,48,74,9907,Rock
+184,New Way To Hate,Otherwise,2022-11-03,102,88,58,-5,41,3:08,0,45,249,3704,Rock
+185,Black Rhino,Royal Bliss,2022-08-19,139,99,44,-3,24,2:44,0,38,250,7438,Rock
+186,Soldier On!,Megadeth,2022-09-02,126,100,48,-4,33,4:54,0,55,251,779,Rock
+187,One of Those Days (feat. Eric Clapton),Ozzy Osbourne,2022-09-09,82,84,41,-4,31,4:40,0,61,252,6794,Rock
+188,Yen,Slipknot,2022-09-30,137,93,56,-4,30,4:44,0,68,253,6042,Rock
+189,Bad Man,Disturbed,2022-11-18,175,99,45,-3,31,3:22,0,57,598,590,Rock
+190,Golden,Crobot,2022-06-03,164,91,45,-5,51,3:58,0,41,254,3312,Rock
+191,Blast off!!,AVOID,2022-11-04,102,98,54,-5,20,3:37,0,43,75,1141,Rock
+192,Godspeed,Wage War,2021-10-01,115,95,53,-3,51,3:07,0,57,255,4410,Rock
+193,The Foreverlost,VV,2022-11-04,146,90,51,-5,68,3:30,0,52,256,6141,Rock
+194,No Apologies,Papa Roach,2022-04-08,93,94,51,-3,44,3:08,0,60,76,9095,Rock
+195,Monochrome,BABYMETAL,2022-11-17,175,91,39,-4,27,3:57,0,49,257,5515,Rock
+196,WHY?,WILLOW,2022-10-07,176,72,40,-12,51,2:59,5,55,299,1360,Rock
+197,One More Day,We Came As Romans,2022-10-14,105,86,57,-6,28,4:28,0,54,258,1001,Rock
+198,Becoming,Volbeat,2021-12-03,120,94,43,-7,39,4:13,0,60,77,7736,Rock
+199,"The Retaliators Theme (21 Bullets) (feat. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New)",The Retaliators,2022-08-05,166,94,44,-5,19,4:02,10,59,259,5898,Rock
+200,Nobody Wants to Die,Rival Sons,2022-10-14,160,95,30,-4,38,3:43,0,53,260,8361,Rock
+201,Mr Medicine,Pigs Pigs Pigs Pigs Pigs Pigs Pigs,2022-11-01,154,84,17,-8,51,2:27,0,36,261,7565,Rock
+202,Judgement Day,Kings of Chaos,2022-10-28,98,96,43,-2,49,3:27,0,46,262,8078,Rock
+203,Blow (feat. Spencer Charnas of Ice Nine Kills),Eva Under Fire,2022-09-23,126,97,59,-2,66,2:45,0,54,78,2100,Rock
+204,Freak,Letdown.,2022-09-23,112,66,60,-6,60,3:11,0,48,263,4223,Rock
+205,Fuck You,The Used,2022-10-21,175,79,36,-5,38,2:58,2,57,264,8116,Rock
+206,Broken,The Devil Wears Prada,2022-09-13,145,86,43,-5,14,3:49,0,47,265,2713,Rock
+207,Dandelions,Hawthorne Heights,2022-10-20,167,95,49,-3,63,3:00,0,50,266,5092,Rock
+208,RECOVER,Point North,2022-08-10,170,95,44,-4,60,3:22,0,53,267,2455,Rock
+209,Taunt Me,Dream State,2022-10-14,147,97,53,-6,51,3:53,0,44,268,7774,Rock
+210,Mama I'm Coming Home,Bad Wolves,2022-10-28,144,87,45,-4,19,3:50,1,53,79,9680,Rock
+211,Omens,Lamb of God,2022-07-28,96,99,47,-6,26,3:48,0,46,80,4898,Rock
+212,Until We Break (feat. Matty Mullins of Memphis Mayfire),From Ashes to New,2022-10-07,102,93,49,-5,26,3:34,0,59,269,3976,Rock
+213,The Shower Scene,Ice Nine Kills,2021-10-15,176,94,38,-4,45,3:12,0,62,270,548,Rock
+214,Talk & Walk,Mammoth WVH,2022-09-16,140,99,50,-3,33,4:35,0,44,81,4778,Rock
+215,Ego Death (feat. Steve Vai),Polyphia,2022-09-28,128,76,66,-5,45,5:50,4,65,82,7556,Rock
+216,Slaughter Beach,Clutch,2022-08-16,147,83,49,-6,81,3:41,0,42,271,1797,Rock
+217,Fear the Sun,Siiickbrain,2022-09-23,151,87,47,-6,21,2:46,0,44,83,6981,Rock
+218,Best at Being the Worst,Unlike Pluto,2022-10-07,184,58,31,-8,26,4:00,0,53,272,1969,Rock
+219,Save Yourself,ONE OK ROCK,2022-09-09,165,85,50,-3,76,3:18,0,57,768,8284,Rock
+220,City Of The Dead,Hollywood Undead,2022-08-12,140,88,43,-3,47,2:54,0,52,273,7701,Rock
+221,Live by the Gun ( feat. Ice-T ),Lionheart,2022-10-05,105,94,55,-4,42,3:34,0,35,274,3613,Rock
+222,Motherlode,The Standstills,2022-09-30,135,96,45,-4,49,3:02,0,45,275,5519,Rock
+223,Fight Alone,Motive Black,2022-09-30,170,92,42,-4,56,3:40,0,35,276,1250,Rock
+224,New Era,Adelitas Way,2022-09-02,165,97,42,-3,58,3:08,0,45,277,3474,Rock
+225,Waiting on You,Rain City Drive,2022-07-15,112,99,54,-3,27,3:17,0,51,278,9616,Rock
+226,Spillways,Ghost,2022-03-11,128,87,57,-5,80,3:17,0,69,84,5727,Rock
+227,Sacred Kiss,Bad Wolves,2021-10-29,133,90,49,-6,18,4:04,0,44,769,3392,Rock
+228,CHOKE (with grandson & Zero 9:36),The Warning,2022-08-26,175,94,40,-3,39,2:40,0,56,279,3441,Rock
+229,Hold On (feat. Lacey Sturm),All Good Things,2022-09-23,75,90,45,-3,47,4:17,0,46,280,9685,Rock
+230,I Still Burn,Fozzy,2022-05-06,110,92,56,-4,38,3:55,0,45,281,4840,Rock
+231,Rest In Peace,Dorothy,2022-01-28,73,83,31,-4,19,3:37,0,52,282,4592,Rock
+232,What Would You Do? [Feat. Gavin Rossdale],Seether,2022-07-08,123,80,55,-5,23,4:50,1,51,283,3220,Rock
+233,DEEP CUTS,You Me At Six,2022-07-21,166,90,33,-6,42,4:14,0,46,284,6770,Rock
+234,Out,Robot Monster,2022-10-20,97,87,52,-7,48,3:18,0,33,285,7129,Rock
+235,100 Little Deaths,Lilith Czar,2021-04-23,145,84,23,-7,14,3:33,0,37,286,5634,Rock
+236,SAY,RedHook,2022-09-16,135,94,47,-3,32,2:59,0,45,287,4891,Rock
+237,My Own Device,Archetypes Collide,2022-09-16,93,82,48,-5,43,3:07,0,41,288,4035,Rock
+238,Rotoscope,Spiritbox,2022-06-22,125,88,56,-5,46,3:35,0,59,289,5349,Rock
+239,Counting Sheep,The Violent,2022-07-22,180,88,43,-6,64,3:25,0,37,290,3551,Rock
+240,You Made Me Want To Live,Black Label Society,2021-11-26,102,66,45,-6,13,4:31,0,40,291,7845,Rock
+241,No Longer Broken,ALPHAMEGA,2022-01-21,160,91,34,-4,33,3:19,0,58,292,639,Rock
+242,Out of My Head,Charlotte Sands,2022-05-13,152,73,47,-5,26,2:54,2,39,26,39,Rock
+243,Die Another Day,Dance Gavin Dance,2022-07-29,175,98,47,-3,37,3:41,7,58,293,2120,Rock
+244,LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein),Anti-Flag,2022-07-29,164,98,47,-4,74,3:05,0,44,85,2896,Rock
+245,Don't Pray For Me,Within Temptation,2022-07-08,142,90,48,-4,50,3:42,0,52,294,3640,Rock
+246,The Optimist,10 Years,2022-09-14,198,91,40,-6,53,2:58,0,58,295,1554,Rock
+247,From Today,coldrain,2022-07-06,175,95,33,-4,36,3:54,0,47,296,2181,Rock
+248,Whatever,AVOID,2022-08-19,153,99,43,-4,25,3:39,0,42,770,4549,Rock
+249,Sober,Palisades,2022-06-15,100,95,48,-3,31,3:05,0,37,297,9533,Rock
+250,I EXIST,VUKOVI,2022-07-18,135,88,47,-5,30,4:30,0,46,27,1228,Rock
+251,Rain Down,Solence,2022-07-08,138,85,52,-4,40,4:07,0,53,305,6132,Rock
+252,Money Spent,Koe Wetzel,2022-09-16,87,77,55,-6,18,2:37,0,64,306,7729,Rock
+253,Shivering (feat. Spiritbox),ILLENIUM,2022-05-13,150,91,43,-3,24,5:01,1,60,307,9880,Rock
+254,War Inside of Me,ZILLION,2022-07-29,105,85,59,-4,34,2:54,0,42,308,5147,Rock
+255,NOCTURNAL,MOTHICA,2022-07-01,105,71,61,-6,48,2:47,5,45,9,5617,Rock
+256,Divided,Villain of the Story,2022-07-22,160,93,35,-4,38,4:13,0,43,309,3298,Rock
+257,Behind Your Walls,The Offspring,2021-08-20,152,95,42,-2,39,3:21,0,55,28,8854,Rock
+258,Tear It Down,Skid Row,2022-10-14,97,95,51,-4,49,3:57,0,35,86,2497,Rock
+259,Home,Chaosbay,2022-07-07,147,94,48,-5,52,3:27,0,34,310,1927,Rock
+260,Fever Dream,Palaye Royale,2022-07-14,129,89,33,-5,16,5:06,0,55,458,3019,Rock
+261,Dead Man Walking,Jelly Roll,2021-09-17,92,82,56,-7,16,3:21,0,62,311,5412,Rock
+262,Still Sinking,Any Given Sin,2022-07-22,160,94,44,-4,67,3:35,0,42,312,9535,Rock
+263,Ringin' In My Head,Black Stone Cherry,2021-08-27,180,89,40,-4,36,4:13,0,33,313,5672,Rock
+264,Circles,Anberlin,2022-07-01,176,70,28,-8,9,4:36,0,36,314,3637,Rock
+265,A$$A$$IN,Beauty School Dropout,2022-05-25,170,89,46,-4,24,3:09,0,36,315,7318,Rock
+266,Live Like This,Silverstein,2022-05-03,142,79,42,-5,14,3:57,0,35,316,2224,Rock
+267,Take Me Away,New Medicine,2022-06-24,172,80,41,-6,40,2:18,3,63,317,930,Rock
+268,Baptize,Atreyu,2021-06-04,105,91,60,-5,48,2:49,0,48,318,7413,Rock
+269,Fingernails,DON BROCO,2022-04-25,142,95,61,-5,37,4:05,0,54,319,3765,Rock
+270,Graveyard,Our Last Night,2022-06-17,90,95,46,-6,41,3:04,0,51,320,3140,Rock
+271,Strangest Faces,Bayside,2022-05-12,152,79,37,-6,54,3:12,0,47,87,9332,Rock
+272,This Is Mongol,The HU,2022-05-13,130,71,73,-8,56,3:45,1,47,321,7663,Rock
+273,Love is Red,Colorblind,2022-06-10,112,84,63,-6,47,3:43,3,40,322,714,Rock
+274,break me!,Maggie Lindemann,2022-06-03,80,73,37,-7,35,2:34,14,43,459,1345,Rock
+275,Lucy,Windwaker,2022-03-04,160,97,43,-4,51,3:36,0,36,323,4606,Rock
+276,Only Love Can Save Me Now [Feat. Matt Cameron & Kim Thayil],The Pretty Reckless,2021-02-12,170,94,38,-3,43,5:12,0,43,324,253,Rock
+277,The DJ Is Crying For Help,AJR,2022-11-18,145,65,54,-7,52,3:41,35,65,771,8605,Rock
+278,tired of california,Nessa Barrett,2022-10-07,92,73,71,-6,64,3:11,23,68,460,3126,Rock
+279,spend the money (feat. Lil Uzi Vert),Fousheé,2022-11-18,141,88,59,-5,65,3:20,0,38,29,2133,Rock
+280,TAKE THIS CROWN (feat. Good Charlotte),DE'WAYNE,2022-09-02,160,95,46,-5,27,3:36,0,52,179,5575,Rock
+281,Tonight (feat. Ezra Koenig),Phoenix,2022-09-07,142,74,67,-7,89,4:07,5,62,772,1217,Rock
+282,Leader of the Pack,Wunderhorse,2022-07-14,95,97,51,-4,59,3:03,0,46,461,329,Rock
+283,Elevator,Blu DeTiger,2022-10-21,111,62,84,-5,83,2:46,1,54,325,4997,Rock
+284,Things You Make Me Do,The Wrecks,2022-11-04,95,76,59,-5,38,3:06,1,40,326,1045,Rock
+285,Bad,Sohodolls,2022-10-28,131,89,55,-5,50,3:41,1,41,327,9023,Rock
+286,Exscape,Montell Fish,2022-10-25,140,85,60,1,45,2:22,65,64,328,5628,Rock
+287,Box in a Heart (with renforshort),The Maine,2022-09-28,94,47,59,-8,30,2:51,17,55,329,2903,Rock
+288,Lovesick in Public,Zoe Ko,2022-09-29,98,59,77,-6,65,2:33,48,42,330,6697,Rock
+289,What’s It Take To Be Happy?,The Blue Stones,2022-09-23,93,78,63,-6,61,3:21,0,49,88,2119,Rock
+290,Like That,Cassyette,2022-11-10,146,83,49,-4,44,2:35,0,48,462,6858,Rock
+291,fmk (with blackbear) - messier,GAYLE,2022-10-28,143,71,40,-5,34,3:06,6,56,89,6597,Rock
+292,stab my back,carobae,2022-11-17,127,72,56,-8,62,3:28,0,20,331,5837,Rock
+293,SPIT IN MY FACE!,ThxSoMch,2022-11-01,166,57,70,-10,57,2:42,9,83,332,5597,Rock
+294,overpaid (feat. Tom The Mail Man),aldn,2022-11-11,155,77,61,-5,75,2:54,0,45,90,5262,Rock
+295,Let Yourself Free,Fitz and The Tantrums,2022-11-11,133,88,71,-3,70,2:20,0,50,333,5806,Rock
+296,It's Been So Long,K.Flay,2022-11-16,112,74,73,-7,71,3:13,7,49,334,6086,Rock
+297,Nowhere To Go,Arkells,2022-09-23,155,94,58,-5,73,3:42,0,48,773,5778,Rock
+298,CRÈME BRÛLÉE!,spill tab,2022-11-08,145,83,41,-6,54,2:16,1,52,335,1206,Rock
+299,Start This Over,The Rare Occasions,2022-11-04,96,50,66,-7,52,3:34,10,51,336,5410,Rock
+300,After The Earthquake,Alvvays,2022-10-05,166,90,32,-4,41,3:05,1,39,337,3107,Rock
+301,Trouble With This Bed,Beach Weather,2022-11-11,92,70,65,-6,93,3:47,20,56,774,9845,Rock
+302,Mad At Me,Samia,2022-11-01,98,56,60,-7,8,3:39,18,54,338,3596,Rock
+303,Maybe You Saved Me,Bad Suns,2022-08-01,98,91,59,-4,76,3:25,5,52,339,6518,Rock
+304,Robbery,DREAMERS,2022-08-26,142,91,69,-3,87,2:28,3,52,91,165,Rock
+305,We Are All Insane,AWOLNATION,2022-11-04,84,74,52,-6,56,3:31,20,54,340,5241,Rock
+306,Hurt You,Connie Constance,2022-10-06,155,73,56,-5,58,3:55,6,48,30,7413,Rock
+307,Pretty Boy,Noel Gallagher's High Flying Birds,2022-10-31,157,89,52,-6,71,4:55,0,60,341,7568,Rock
+308,superhuman,Bishop Briggs,2022-10-21,171,56,45,-3,79,2:51,44,56,342,3607,Rock
+309,VHS,Andrew McMahon in the Wilderness,2022-11-16,93,74,54,-7,50,3:12,1,38,775,8084,Rock
+310,No Rule,Manchester Orchestra,2022-11-10,171,71,26,-7,20,5:26,0,53,343,8423,Rock
+311,Dream Born Again,New Found Glory,2022-11-10,151,66,53,-6,43,4:21,22,51,344,7717,Rock
+312,My People,The Beaches,2022-10-03,167,85,58,-6,42,3:13,0,43,345,4268,Rock
+313,Poison or Patience (feat. OSTON),Friday Pilots Club,2022-10-27,176,78,46,-6,53,2:57,0,46,346,4217,Rock
+314,Be Happy (feat. Royal & the Serpent),Sleeping With Sirens,2022-10-14,94,90,46,-4,35,3:19,0,57,855,935,Rock
+315,More Than This,The Luka State,2022-11-09,112,98,44,-1,33,3:02,0,42,347,1719,Rock
+316,STATUES (v2),George Barnett,2022-09-09,123,87,67,-3,91,4:53,0,38,776,8815,Rock
+317,Cinnamon,GUNNAR,2022-09-23,158,56,41,-5,65,2:38,1,39,92,5546,Rock
+318,Fantasy,THE DRIVER ERA,2022-09-16,89,40,86,-7,48,3:20,51,48,348,149,Rock
+319,sideways - Spotify Singles,sad alex,2022-11-09,98,64,56,-5,53,2:38,31,38,349,9732,Rock
+320,Friends I Barely Know,Windser,2022-10-28,138,79,63,-7,63,3:00,0,35,350,8331,Rock
+321,girls just wanna have sex,mazie,2022-11-18,100,96,59,-4,85,2:04,1,45,351,7007,Rock
+322,Cartoon Earthquake - Spotify Singles,Blondshell,2022-10-19,112,73,49,-7,35,3:25,19,46,352,7099,Rock
+323,"Don't Rush, Don't Wait",Now More Than Ever,2022-10-20,151,59,57,-8,56,2:45,10,39,353,8611,Rock
+324,I’m Not Perfect (But I’m Trying),Rachel Chinouriri,2022-10-25,101,85,59,-7,25,3:26,6,59,354,4914,Rock
+325,Do You Wanna Talk,Circa Waves,2022-09-22,100,87,70,-5,90,2:26,8,59,355,1725,Rock
+326,A Tip from You to Me,Jack White,2022-07-22,152,78,50,-6,51,2:43,16,52,93,7570,Rock
+327,Glorious Sunset,Hundred Reasons,2022-10-27,160,81,39,-6,25,3:59,0,40,356,5186,Rock
+328,Love Will Get You There,Inhaler,2022-10-13,96,90,50,-5,53,4:10,4,58,357,1368,Rock
+329,Phases,Marlhy,2022-11-11,124,75,58,-6,24,2:50,0,35,359,7980,Rock
+330,How Does It Feel,Maz,2022-09-28,116,67,60,-6,39,3:39,37,41,360,9684,Rock
+331,Otherside,Young the Giant,2022-10-21,111,67,32,-7,27,3:42,0,54,361,1017,Rock
+332,Keep On Dreamin',The Arcs,2022-10-13,133,74,59,-6,68,4:27,1,56,362,8733,Rock
+333,Tantrum,Charlotte Sands,2022-09-07,92,89,64,-5,58,2:37,8,52,463,9563,Rock
+334,Battle Scars,MOD SUN,2022-08-19,128,75,69,-6,36,2:52,1,56,363,7892,Rock
+335,Cannonballers,Colony House,2022-09-15,158,97,55,-4,78,2:52,0,46,364,2762,Rock
+336,Hallelujah Moment,The Snuts,2022-09-30,113,89,68,-4,85,2:15,12,58,365,7053,Rock
+337,What Feels Like Eternity,Metric,2022-07-08,166,77,53,-5,58,3:38,8,48,856,3403,Rock
+338,SCARING ME,cleopatrick,2022-10-21,135,66,59,-8,14,3:52,11,52,366,6198,Rock
+339,cough drops,almost monday,2022-10-05,77,70,62,-5,79,2:44,0,54,367,6627,Rock
+340,Out of My Mind,Black Honey,2022-10-05,148,86,39,-6,37,3:33,0,45,368,2878,Rock
+341,Baby Take My Acid,Lincoln,2022-10-21,136,91,48,-4,46,2:57,0,47,369,4009,Rock
+342,new body rhumba (from the film White Noise),LCD Soundsystem,2022-09-30,137,93,71,-5,70,7:24,9,57,370,1444,Rock
+343,Matador,Sam Austins,2022-10-04,114,80,66,-5,47,3:17,3,45,94,1648,Rock
+344,Better Angels,Marcus Mumford,2022-09-16,128,67,76,-9,74,3:26,2,52,371,9738,Rock
+345,wish i was dead,EKKSTACY,2022-07-29,180,95,36,-3,38,1:39,2,49,31,6976,Rock
+346,Gelato,Echosmith,2022-10-05,167,67,53,-5,45,3:05,14,45,372,1153,Rock
+347,Stay Out Of It,Michigander,2022-07-14,109,92,48,-3,38,3:05,0,49,373,9035,Rock
+348,three wheels and it still drives!,glaive,2022-09-28,145,55,49,-5,55,3:20,4,61,374,3808,Rock
+349,Cry,Adam Melchor,2022-09-30,96,56,61,-6,30,3:50,24,43,375,2641,Rock
+350,Black Tar,Pretty Sick,2022-09-30,94,66,62,-6,40,2:58,31,38,95,5314,Rock
+351,Designated Driver,Taylor Janzen,2022-08-11,102,62,76,-6,50,3:59,5,35,376,195,Rock
+352,Wrongside,MisterWives,2022-08-31,118,80,65,-4,75,3:30,9,47,377,7996,Rock
+353,Hate You When You Party,Good Boy Daisy,2022-08-19,90,89,38,-7,25,3:34,1,42,378,3531,Rock
+354,•NOTDEAD!•,Tom The Mail Man,2022-07-28,159,77,60,-6,49,3:10,1,51,32,7282,Rock
+355,3am in nyc,SEB,2022-08-19,113,65,72,-7,68,3:09,27,45,96,3727,Rock
+356,Every Night,flor,2022-09-02,170,87,46,-6,84,3:20,0,47,379,6017,Rock
+357,Real Life,Story Of The Year,2022-08-24,154,89,54,-4,68,2:45,1,54,97,5582,Rock
+358,how deep?,Tai Verdes,2022-08-26,97,69,80,-7,45,2:35,10,67,380,2819,Rock
+359,Tonight,Peter McPoland,2022-08-19,157,94,48,-3,45,3:31,0,50,381,6363,Rock
+360,Drive,Gretel Hänlyn,2022-10-04,170,90,55,-4,84,2:58,0,45,382,6470,Rock
+361,Too Soon,Crawlers,2022-11-02,166,96,48,-4,67,3:10,0,42,10,8302,Rock
+362,GLORY*,Jean Dawson,2022-10-07,78,80,54,-4,49,3:15,0,51,599,8678,Rock
+363,Goodbye,Mammoth WVH,2022-11-11,196,93,27,-3,45,4:20,0,45,777,831,Rock
+364,Let Me Out,The Blue Stones,2022-11-04,84,87,56,-5,62,3:12,0,52,778,8579,Rock
+365,Milk,BONES UK,2022-11-08,164,77,63,-6,56,3:07,7,40,383,7352,Rock
+366,FUCKED UP,LOWLIFE,2022-11-15,96,87,57,-4,67,2:59,2,25,384,6890,Rock
+367,Wild Grey Ocean,Sam Fender,2022-10-25,118,49,65,-5,23,3:55,31,67,385,141,Rock
+368,Falling from the Sky,Kailee Morgue,2022-10-28,158,69,53,-5,56,2:44,1,50,386,4492,Rock
+369,Ghost Brigade,Creeper,2022-11-04,100,90,47,-6,24,3:45,0,43,387,5037,Rock
+370,Spell,BRKN LOVE,2022-11-04,77,89,40,-4,59,3:38,0,46,464,8708,Rock
+371,Cover You,Kelsy Karter & The Heroines,2022-11-11,158,74,66,-3,80,3:02,1,39,388,4814,Rock
+372,Respecter,Taipei Houston,2022-11-04,174,98,41,-4,32,3:55,0,34,389,2552,Rock
+373,SHE’S MY (SEXI BOY),DE'WAYNE,2022-10-28,124,92,60,-4,86,2:16,0,47,358,1458,Rock
+374,Hey Ben,Hoodie Allen,2022-11-04,128,90,64,-5,80,3:20,1,57,98,917,Rock
+375,Radio Reject,Magnolia Park,2022-11-04,84,95,47,-3,67,2:22,0,52,33,4369,Rock
+376,Internet Junkie,DREAMERS,2022-11-04,148,88,47,-5,33,3:04,1,48,779,5574,Rock
+377,Good Will Hunting Song,HUNNY,2022-11-18,129,69,70,-6,35,2:11,1,32,390,3023,Rock
+378,Apologies,The Hunna,2022-10-14,165,89,53,-5,70,2:53,0,46,391,8869,Rock
+379,Takes 2 To Kill Me,Teenage Disaster,2022-10-07,131,95,67,-4,85,2:21,1,46,392,5946,Rock
+380,adrenaline,carpetgarden,2022-11-18,110,72,68,-7,96,2:24,0,33,393,463,Rock
+381,Dancing With The Devil,Sam Austins,2022-11-15,168,91,52,-5,81,2:56,1,23,780,6286,Rock
+382,Everything's Fine (Nuke Song),Roe Kapara,2022-09-29,145,53,57,-9,43,2:15,7,57,394,2991,Rock
+383,Beauty in The Bad Things (feat. Charlotte Sands),John Harvie,2022-11-04,81,46,59,-5,33,3:44,25,45,395,4323,Rock
+384,PARANOIA (with FEVER 333 & Point North) - Remix,GARZI,2022-11-11,156,90,45,-4,54,2:27,0,51,396,4290,Rock
+385,God Is a Circle,Yves Tumor,2022-11-02,110,90,56,-5,45,3:34,0,57,397,4954,Rock
+386,hurricane,44phantom,2022-10-14,76,97,56,-3,48,2:45,0,57,781,362,Rock
+387,ALLIGATOR,NOISY,2022-11-10,125,90,61,-4,70,2:29,2,40,398,4250,Rock
+388,Carnage,Jazmin Bean,2022-11-18,120,85,33,-3,30,3:37,15,46,399,4883,Rock
+389,Left Handed,Boy Destroy,2022-11-11,156,90,54,-6,70,2:34,7,34,400,9932,Rock
+390,Blue,SAIAH,2022-11-11,180,87,36,-4,23,3:47,4,41,401,4972,Rock
+391,Undone,aldrch,2022-11-03,130,72,56,-9,68,3:36,0,36,402,8058,Rock
+392,1-800-IDONTKNOWYOUANYMORE,Chad Tepper,2022-11-09,152,87,44,-3,56,2:51,1,38,403,2339,Rock
+393,Pool Boy,Hello Forever,2022-11-11,156,89,47,-7,56,2:45,0,20,404,8217,Rock
+394,Hurt You,Connie Constance,2022-11-04,155,73,56,-5,58,3:55,6,32,465,6524,Rock
+395,Parasite,Frank Carter & The Rattlesnakes,2022-10-31,165,94,46,-3,37,3:02,1,54,99,4440,Rock
+396,Moments of Clarity,Narrow Head,2022-11-07,180,90,20,-6,25,3:51,1,44,405,7586,Rock
+397,Closet,Fleshwater,2022-11-04,109,93,27,-3,39,2:02,0,46,34,4717,Rock
+398,•WORST FRIEND•,Tom The Mail Man,2022-11-10,155,84,49,-6,40,1:51,3,45,466,8797,Rock
+399,Make It Through the Night,Baby Jane,2022-11-11,128,76,62,-6,48,2:23,0,24,406,9373,Rock
+400,Dye Yer Hair,SWMRS,2022-11-04,185,95,38,-4,48,3:01,0,40,407,8544,Rock
+401,Wishing You Hell,Taylor Acorn,2022-10-21,155,86,55,-4,76,3:15,0,52,408,8494,Rock
+402,Tear Me to Pieces,Story Of The Year,2022-10-12,128,91,30,-5,52,2:57,0,54,782,7832,Rock
+403,HEAVYWEIGHT,Ryan Oakes,2022-11-04,163,90,52,-3,41,2:49,0,56,100,8294,Rock
+404,I Don't Believe in Anything,DeathbyRomy,2022-10-28,172,81,40,-5,36,3:15,4,42,409,9579,Rock
+405,They Didn't Tell Me,GUNNAR,2022-11-11,80,54,55,-5,70,3:05,1,36,783,6098,Rock
+406,where it hurts,Prentiss,2022-11-04,138,89,62,-5,48,2:35,11,32,410,4949,Rock
+407,Graves,Dear Youth,2022-11-03,176,88,44,-6,60,2:47,0,32,411,4006,Rock
+408,I Hate That I Love Brooklyn,BEGINNERS,2022-07-27,72,98,42,-5,61,2:30,0,29,412,8733,Rock
+409,Best Kept Secret,Jutes,2022-10-06,132,76,72,-3,70,2:29,0,42,413,7171,Rock
+410,These Drugs,The Thing With Feathers,2022-11-04,189,68,45,-9,63,2:45,2,31,101,5151,Rock
+411,Let It Sink,LATE 90s,2022-11-03,169,91,20,-6,29,3:03,0,45,414,5142,Rock
+412,I Don't Wanna Live Like This,Gable Price and Friends,2022-11-11,81,75,25,-4,41,2:58,12,45,415,5524,Rock
+413,At The Core,Witch Fever,2022-10-21,174,76,26,-5,53,2:40,0,39,102,5846,Rock
+414,They Only Love You When You're Dead,Blame My Youth,2022-10-07,176,94,39,-4,53,2:42,0,37,416,5205,Rock
+415,Just Like Home,Bayside,2022-10-19,105,93,20,-6,51,3:15,0,45,784,6251,Rock
+416,just you,paris jackson,2022-10-28,106,70,49,-5,50,3:32,0,36,417,4394,Rock
+417,Self Fulfilling Prophecy,Pretty Sick,2022-09-30,74,34,42,-6,7,3:50,49,47,785,5186,Rock
+418,Wasted on You,Homes at Night,2022-10-18,192,67,36,-5,35,3:20,1,26,418,9002,Rock
+419,Overrated,The Foxies,2022-09-23,180,85,49,-6,77,3:00,0,31,419,4234,Rock
+420,Sentimental,Magic Whatever,2022-09-30,92,93,52,-5,58,2:27,0,34,420,3213,Rock
+421,Seeing Red (with Dusty Locane & Rah Swish),7evin7ins,2022-10-14,93,87,63,-6,58,2:42,0,48,421,4857,Rock
+422,BURN THE WITCH,Pinkshift,2022-10-21,103,98,45,-1,69,3:23,0,42,35,9136,Rock
+423,Fuck Around and Find Out (feat. $NOT),Polyphia,2022-10-28,115,74,72,-5,65,2:31,31,64,786,3996,Rock
+424,Peach Fuzz (with Cybertrash),Groupthink,2022-10-21,176,77,40,-7,47,2:33,1,43,422,1645,Rock
+425,Swear,Tigers Jaw,2022-10-28,122,95,53,-4,54,2:39,1,44,423,707,Rock
+426,i heard they found you face down inside your living room,Can't Swim,2022-10-25,180,62,23,-5,18,3:12,0,47,424,6424,Rock
+427,HAPPY,Sløtface,2022-10-21,94,82,50,-6,43,2:27,0,40,425,2294,Rock
+428,Bombs Away,Emeryld,2022-09-14,116,85,64,-4,62,3:14,1,32,426,2790,Rock
+429,Groundhog Day,Knuckle Puck,2022-10-20,127,89,35,-5,49,3:38,0,51,427,4579,Rock
+430,COLD BEER,LESANE,2022-10-21,170,80,72,-6,79,1:42,8,41,428,8062,Rock
+431,Beachtown,Mo Lowda & the Humble,2022-10-07,126,60,67,-6,30,3:54,25,41,429,2003,Rock
+432,KILL ALL PREDATORS,Banshee,2022-10-20,132,81,74,-6,80,2:05,0,51,103,4416,Rock
+433,DEATHWISH,Red Leather,2022-10-28,130,80,60,-5,54,2:48,0,54,787,3071,Rock
+434,I Really F**ked It Up,girli,2022-09-23,165,67,62,-7,42,2:46,6,55,430,85,Rock
+435,Choose Your Fighter,Nova Twins,2022-06-13,130,85,55,-6,58,2:15,0,42,36,7941,Rock
+436,bored,Fousheé,2022-11-18,93,94,33,-3,50,2:31,0,34,467,4055,Rock
+437,arsonists,Ethan Bortnick,2022-10-14,157,67,53,-6,43,2:31,4,60,431,4591,Rock
+438,MISS ME?,Kordhell,2022-09-23,124,93,68,-1,51,2:14,0,69,432,1241,Rock
+439,You've Created a Monster,Bohnes,2021-10-29,134,63,65,-8,21,2:39,1,53,433,2781,Rock
+440,XO,lozeak,2022-10-12,138,63,76,-5,74,2:14,16,43,434,5765,Rock
+441,FYB,Poppy,2022-09-23,105,94,30,-5,29,1:46,1,52,435,177,Rock
+442,DiE4u,Bring Me The Horizon,2021-09-16,160,92,36,-4,26,3:27,0,68,788,8336,Rock
+443,Happy Kid,CHELJI,2022-11-18,86,46,62,-7,18,2:22,8,34,436,5117,Rock
+444,WARNING LABEL,Neoni,2022-09-16,100,78,83,-6,76,2:55,11,47,437,8428,Rock
+445,SADIST,Banshee,2022-11-11,120,90,62,-5,35,3:19,3,42,789,7217,Rock
+446,Ghosted My Dentist,Dev Lemons,2022-11-11,126,60,80,-7,74,2:05,11,39,438,3778,Rock
+447,Cdbaby<3 - underscores remix,chloe moriondo,2022-10-27,170,61,55,-8,57,2:13,26,48,104,7414,Rock
+448,die,Fousheé,2022-11-18,150,74,50,-5,28,2:29,0,33,857,226,Rock
+449,flesh,babychaos,2021-03-05,100,92,55,-4,54,2:53,0,46,439,646,Rock
+450,NIGHTSHIFT,MOTHICA,2022-10-21,163,55,73,-7,61,2:07,20,52,302,8515,Rock
+451,Plastic Purse,chloe moriondo,2022-10-07,148,55,73,-6,75,2:23,2,51,790,790,Rock
+452,welcome to my life,Izzi De-Rosa,2022-11-11,150,70,68,-7,57,2:16,11,40,440,197,Rock
+453,QUENCH,VUKOVI,2022-09-29,120,78,38,-5,36,3:07,0,40,468,2456,Rock
+454,Talking To Myself,EMMETH,2022-11-11,83,91,63,-5,46,2:12,0,25,441,8188,Rock
+455,PRINCESS CHARMING,Pussy Riot,2022-08-05,137,67,75,-6,74,2:17,5,42,442,1318,Rock
+456,all my friends,plxntkid,2022-10-27,140,70,68,-6,52,2:23,6,40,443,4526,Rock
+457,Maggots,Ashnikko,2021-09-29,176,82,62,-4,63,2:19,6,57,105,3229,Rock
+458,DEMONWHORES!,infinityghxst,2022-10-21,145,94,62,-9,52,2:26,0,35,444,5053,Rock
+459,"GBS, XOXO",Izzy Spears,2022-11-11,82,90,63,-4,95,2:12,7,28,445,3608,Rock
+460,Muse,July Jones,2022-11-18,130,71,77,-5,62,2:14,4,22,446,5080,Rock
+461,difficult,Internet Girl,2022-10-14,122,45,73,-9,80,2:05,1,43,447,4522,Rock
+462,Internetgf,Slush Puppy,2022-09-09,92,70,62,-7,40,2:38,1,40,483,2046,Rock
+463,stay alone,meat computer,2022-11-02,105,85,50,-10,9,1:58,2,40,484,5300,Rock
+464,Not Yours Never Was,AlienBlaze,2022-09-07,121,80,62,-6,14,2:51,1,33,485,6209,Rock
+465,pantychrist,Dana Dentata,2021-09-03,169,94,53,-6,45,2:48,1,39,486,4515,Rock
+466,HAMMER 2 THE FACE,Tokky Horror,2022-11-03,174,99,41,-5,45,1:13,0,28,487,3659,Rock
+467,SHAME ON ME,Happyalone.,2022-10-21,150,94,41,-3,26,1:44,0,31,488,4195,Rock
+468,never goes down like that (ft. Ezekiel),phem,2022-11-18,170,79,53,-4,65,2:16,6,32,106,8655,Rock
+469,Devils,Transviolet,2022-09-23,118,82,59,-7,24,3:08,10,40,489,5033,Rock
+470,Clique,YONAKA,2021-07-15,90,84,57,-6,73,2:20,0,52,490,7749,Rock
+471,Haunted,Laura Les,2021-03-12,169,82,51,-9,55,1:42,0,70,491,3653,Rock
+472,BLAST,Charles Jeffrey LOVERBOY,2022-10-31,174,82,38,-9,32,2:09,0,26,492,9403,Rock
+473,U Love It,Sophie Powers,2022-02-18,88,81,61,-4,76,2:41,0,47,493,5727,Rock
+474,Hazmat Suit (My Ass),BEX,2022-11-18,95,45,54,-17,55,3:01,0,19,494,9891,Rock
+475,IM FINE,Royal & the Serpent,2022-09-23,156,76,48,-6,20,2:12,1,47,450,7552,Rock
+476,PARADE,SLOE JACK,2022-05-05,105,90,85,-6,57,2:03,31,35,495,2609,Rock
+477,Boohoo Baby,Snaggletooth,2021-03-19,130,89,50,-5,15,4:26,0,42,496,5596,Rock
+478,The Emperor,YUNGBLUD,2022-08-05,160,95,52,-3,59,2:55,0,54,600,483,Rock
+479,Gang,joe unknown,2022-09-30,106,72,59,-4,11,3:01,35,37,497,9139,Rock
+480,Misfits,Magnolia Park,2022-11-04,130,86,61,-4,58,2:58,0,49,469,7753,Rock
+481,I DON'T LIKE YA,kkbutterfly27xx,2022-10-21,157,98,67,-2,85,0:58,40,33,498,4461,Rock
+482,Battery Acid,ZAND,2022-07-28,112,33,66,-9,66,5:19,88,39,499,2457,Rock
+483,Lips Apart,Alice Glass,2022-09-21,120,45,60,-10,16,3:26,3,41,500,1276,Rock
+484,SuperVillain Origin Story,whatyoudid.,2022-10-24,90,67,52,-4,36,2:53,0,44,501,3814,Rock
+485,BUBBLEGUM,Sizzy Rocket,2022-11-11,82,90,59,-1,44,2:05,7,23,502,1917,Rock
+486,the boy has to go,SCARLET,2022-10-28,80,62,73,-10,57,2:46,1,26,503,5161,Rock
+487,F**k Em Up,Filmore!,2022-10-21,154,52,72,-11,55,3:30,6,28,504,6932,Rock
+488,Lost,Crim3s,2013-04-11,120,65,50,-5,11,2:28,0,67,505,4452,Rock
+489,watery,phem,2022-08-26,94,61,62,-6,32,2:28,1,46,791,1894,Rock
+490,LIPSTICK,Scotty Overdose,2022-10-27,90,67,22,-6,7,2:13,0,26,506,8371,Rock
+491,I'm A Star,Sarah Wolfe,2022-10-10,110,91,74,-2,89,3:20,15,30,507,3017,Rock
+492,Body Mind Hell,VTSS,2022-08-25,120,82,80,-9,68,2:44,3,39,508,3504,Rock
+493,say what u mean (with Riovaz),aldn,2022-09-01,163,83,54,-4,48,2:31,7,55,792,4724,Rock
+494,Mezze Life,gürl,2022-09-29,154,71,49,-5,51,3:34,1,30,509,6498,Rock
+495,Death Wish,Bronnie,2022-07-07,158,94,51,-3,81,3:14,0,30,510,2386,Rock
+496,I Don't Want It,Crawlers,2022-08-23,152,94,46,-4,65,2:15,0,50,303,9888,Rock
+497,Skullflower,Rico Nasty,2022-07-22,108,72,69,-8,26,2:21,0,39,37,9174,Rock
+498,Headbang,Bambie Thug,2022-09-23,166,83,68,-8,63,2:43,2,31,511,858,Rock
+499,IT'S GONNA BE A LONG DAY,Johnny Goth,2022-08-16,130,56,44,-6,16,3:14,6,44,107,730,Rock
+500,Heart Of Stone,XO LU,2022-10-14,150,64,63,-8,51,2:49,3,27,512,4000,Rock
+501,Flawed Guy,Hugo Pooe,2022-09-23,118,44,68,-12,42,2:06,2,29,513,6480,Rock
+502,reaLitie biTes,tiLLie,2022-09-14,130,83,67,-5,78,2:24,4,40,514,9712,Rock
+503,These Days R Mine,Johnny Goth,2021-04-13,115,59,59,-8,13,3:29,2,40,793,2212,Rock
+504,bugfood,Alissic,2022-08-25,133,74,45,-3,30,3:27,2,42,515,8192,Rock
+505,I Feel Everything,Izzy T,2022-09-30,145,86,53,-4,49,2:24,0,28,516,1649,Rock
+506,FANG DUMMY,KNIFE BRIDE,2022-09-30,130,93,59,-3,45,3:51,0,31,517,6959,Rock
+507,Rockstar,ALT BLK ERA,2022-05-20,160,88,55,-8,60,2:29,0,31,518,9444,Rock
+508,"hi, my name is lonely.",stef,2021-04-30,126,69,86,-5,57,2:51,1,50,519,7739,Rock
+509,MOTHERFUCKER,Billy Sane,2022-06-01,185,86,45,-7,9,1:02,0,39,520,4779,Rock
+510,ur a,WILLOW,2022-10-07,122,91,58,-10,53,2:06,1,60,448,286,Rock
+511,Twinkle Twinkle,Leah Kate,2022-06-24,160,85,57,-5,60,2:37,2,58,521,5589,Rock
+512,deathmatch,Nessa Barrett,2022-11-18,180,90,62,-6,66,2:42,8,54,858,9602,Rock
+513,cages,Maggie Lindemann,2022-09-16,160,92,58,-4,47,2:32,3,54,859,5665,Rock
+514,LALALA,NOAHFINNCE,2022-09-14,174,84,35,-5,33,3:06,0,49,38,8816,Rock
+515,Helena,My Chemical Romance,2004-06-08,126,96,36,-3,9,3:25,1,75,522,671,Rock
+516,sound in my head,Chloe Lilac,2022-09-23,124,69,63,-4,37,2:31,5,44,523,6274,Rock
+517,Still into You,Paramore,2013-04-09,136,92,60,-4,77,3:36,1,63,794,6365,Rock
+518,boohoo,LØLØ,2022-09-30,170,57,49,-6,29,3:05,6,49,470,5732,Rock
+519,EAT ME (feat. Royal & the Serpent),Demi Lovato,2022-08-19,106,88,48,-3,36,3:00,0,67,524,5288,Rock
+520,hover like a GODDESS,WILLOW,2022-08-05,170,81,47,-9,66,2:23,1,53,597,3324,Rock
+521,All the Things I Hate About You,Huddy,2022-07-29,108,90,57,-3,37,3:16,0,67,525,308,Rock
+522,Teenage Dirtbag,Wheatus,1999-02-15,95,85,63,-4,63,4:02,35,74,526,6958,Rock
+523,Sneakers,Knox,2022-08-05,168,69,61,-5,95,3:04,5,68,527,3626,Rock
+524,SELF-SABOTAGE,Waterparks,2022-07-08,118,87,60,-4,42,2:37,14,55,795,9686,Rock
+525,Too Soon,Crawlers,2022-11-04,166,96,49,-4,69,3:10,0,44,601,3218,Rock
+526,Next Ex,Sueco,2022-09-16,152,77,72,-4,91,2:10,10,59,528,6954,Rock
+527,Skeleton,Set It Off,2022-03-11,157,69,47,-5,33,3:23,0,55,529,2425,Rock
+528,MIDDLE OF THE NIGHT,Loveless,2022-05-20,93,94,38,-6,16,3:06,0,68,796,3441,Rock
+529,SUPERMODEL,Måneskin,2022-05-13,121,88,64,-3,80,2:28,0,81,797,739,Rock
+530,King For A Day,Pierce The Veil,2012-07-17,112,97,40,-2,43,3:56,0,78,860,5056,Rock
+531,Time of Your Life,Hannah Grae,2022-11-11,167,91,57,-5,76,2:56,9,33,530,9095,Rock
+532,estella//,KennyHoopla,2021-06-11,165,84,45,-4,56,1:59,0,56,108,9157,Rock
+533,I Fell in Love With Someone I Shouldn't Have,Hot Milk,2022-07-14,140,96,46,-4,43,3:22,0,45,531,9962,Rock
+534,MY HEAD,Layto,2022-10-14,80,69,51,-8,59,2:35,1,51,532,9330,Rock
+535,9 lives,Machine Gun Kelly,2022-06-24,151,94,56,-5,50,3:01,2,67,533,193,Rock
+536,Jealousy,Pale Waves,2022-06-27,141,90,52,-2,70,3:13,1,49,798,1101,Rock
+537,Thorns,WALWIN,2022-09-16,119,91,30,-3,28,2:56,3,38,534,863,Rock
+538,Your Love Was My Drug Too,Dallas,2022-10-13,160,77,58,-6,31,3:06,4,41,535,7177,Rock
+539,Toaster For A Swim,girlfriends,2022-06-17,116,75,65,-4,75,3:14,0,42,799,8097,Rock
+540,Toxic,Boy Bleach,2022-09-30,143,87,51,-3,69,3:15,0,36,536,5451,Rock
+541,BEDTIME STORIES,MOTHICA,2022-06-09,90,64,64,-7,42,2:08,4,42,602,4461,Rock
+542,STFU,Neck Deep,2022-05-26,186,97,40,-4,51,2:52,0,55,537,782,Rock
+543,TELL ME THAT YOU’RE OKAY,NOAHFINNCE,2022-06-03,150,80,47,-5,51,3:05,0,45,471,9460,Rock
+544,You Ruined Nirvana,Mckenna Grace,2022-04-21,136,87,57,-3,52,2:53,2,49,539,9890,Rock
+545,Call Me Never,Hoodie Allen,2022-07-15,170,95,58,-4,82,3:02,0,53,800,2043,Rock
+546,sleepwalking,senses,2022-10-26,155,90,59,-6,77,2:01,7,38,540,4179,Rock
+547,Hit Like A Girl,Meet Me @ The Altar,2021-03-22,95,97,55,0,74,3:59,0,43,472,9930,Rock
+548,Hollywood,12:00 AM,2022-06-10,93,78,59,-5,36,2:45,11,45,541,1257,Rock
+549,NOT actin rite,JSTNXMLLR,2022-08-12,176,95,47,-3,43,2:50,0,34,542,6821,Rock
+550,Get A Job,Games We Play,2022-08-26,94,79,62,-4,80,3:07,0,55,109,935,Rock
+551,t r a n s p a r e n t s o u l feat. Travis Barker,WILLOW,2021-07-16,90,83,37,-5,20,2:48,0,64,747,6653,Rock
+552,F U Energy,Milky Sad,2022-07-22,110,68,77,-7,81,2:07,20,38,543,4158,Rock
+553,Happier in Hell,Royal & the Serpent,2022-04-08,139,52,37,-5,33,2:53,2,50,672,1802,Rock
+554,Paranoid,Palaye Royale,2022-10-28,149,83,43,-6,31,4:18,4,52,861,420,Rock
+555,BURNOUT,Ryan Oakes,2022-07-01,160,93,51,-5,56,2:53,0,44,801,5957,Rock
+556,this might be our last december,poptropicaslutz!,2022-05-06,120,82,65,-5,70,3:26,0,41,39,7438,Rock
+557,i'm not crying you're crying,Pinkshift,2022-07-13,98,97,40,-1,31,2:50,0,48,473,8645,Rock
+558,HOMESICK,LOU,2022-05-20,89,80,70,-4,61,3:10,3,34,544,1213,Rock
+559,TOXIC (with POORSTACY),PLVTINUM,2022-04-01,132,83,71,-6,71,2:28,0,47,545,9688,Rock
+560,serotonin,lleo,2022-06-13,140,64,62,-5,62,3:04,0,39,546,2548,Rock
+561,Hold On,KIDPUNK,2022-07-22,176,90,29,-6,34,3:15,0,33,547,6423,Rock
+562,In Over My Head,grandson,2020-12-04,155,82,58,-6,62,3:18,0,52,548,1116,Rock
+563,Kiss the Ladder,Fleshwater,2022-11-04,174,99,12,-3,25,1:17,0,50,474,7472,Rock
+564,Born Yesterday,Gladie,2022-11-04,130,97,43,-5,19,3:22,0,35,549,3095,Rock
+565,Time for Nothing,Fool Nelson,2022-11-02,129,87,53,-5,69,4:31,1,29,550,7838,Rock
+566,50/50,Tysm!,2022-10-29,160,87,68,-6,91,2:44,4,31,551,5256,Rock
+567,Good Enough,Reece Young,2022-06-10,130,89,56,-4,48,2:43,6,22,552,8109,Rock
+568,I am the Gun,ONELIFE,2022-10-27,170,94,41,-5,73,2:46,0,25,553,2553,Rock
+569,Fever,TOVA,2022-10-28,109,96,53,-5,35,3:53,0,30,554,4191,Rock
+570,End of The Line,CIVIC,2022-11-02,99,98,33,-5,40,2:59,0,26,555,7010,Rock
+571,Really Good Song,Really Good Time,2022-10-28,100,66,44,-6,11,2:58,0,23,556,4614,Rock
+572,kickball,Wilby,2022-10-28,78,58,49,-6,65,3:21,19,20,557,6271,Rock
+573,Butterflies,Wunderhorse,2022-10-07,142,64,43,-8,17,3:25,0,45,862,2501,Rock
+574,Allison Arms,DILLON SQUIRE,2022-10-28,96,58,54,-9,38,3:23,5,20,558,4206,Rock
+575,Over & Out,Pile of Love,2022-10-21,144,90,39,-5,39,2:45,0,36,559,280,Rock
+576,I Guess It's Never Enough,Goldpark,2022-08-08,120,75,64,-6,55,3:31,1,44,560,9988,Rock
+577,Eugene - Single Edit,Press Club,2022-08-05,162,94,23,-4,35,3:13,0,28,561,9276,Rock
+578,My Friend,Bones and Jones,2022-10-28,165,82,15,-5,41,3:39,2,22,562,5280,Rock
+579,"HEY, IM ON THE ROOF",Sad Gilmore,2022-10-28,145,94,48,-6,37,5:23,0,23,563,4430,Rock
+580,Ballerina,Daddy's Beemer,2022-10-28,161,89,37,-5,40,2:35,0,24,564,3787,Rock
+581,Funny Those Scars Look Like 'Nothing',Smoke Detector,2022-10-28,93,97,60,-4,50,2:12,0,18,565,3603,Rock
+582,Aries,VENUS GRRRLS,2022-10-21,142,83,51,-4,48,2:51,1,30,566,3875,Rock
+583,Come What May,Mightmare,2022-10-14,110,48,59,-9,17,3:24,73,25,567,8145,Rock
+584,Philadelphia,Dead Bars,2022-10-21,163,94,35,-5,61,2:49,0,24,568,5580,Rock
+585,Sister,Native Sun,2022-06-01,115,85,34,-4,52,4:22,0,28,569,5362,Rock
+586,Sanitarium,Fencer,2022-10-11,132,72,59,-6,43,3:31,28,27,570,1912,Rock
+587,Sun Death,Doll Spirit Vessel,2022-08-12,115,53,73,-7,39,3:02,17,23,571,1940,Rock
+588,Madame Murder,Camp Blu,2022-08-23,78,76,54,-9,23,3:10,27,33,572,4234,Rock
+589,Waste My Revenge,The Thing With Feathers,2022-09-30,152,95,42,-7,66,3:43,2,31,802,122,Rock
+590,OLD MONEY,Disaster Artist,2022-10-02,101,98,49,-2,40,2:38,6,25,573,6743,Rock
+591,Never Gonna Change,Sun Spots,2022-10-14,141,83,28,-8,23,3:00,0,27,574,6713,Rock
+592,Nothing Is Sacred (Anymore),Phil Madeley,2022-10-12,130,61,60,-5,85,3:53,44,22,575,7011,Rock
+593,"If This is Sadness, I Don't Like It One Bit",Mt. Oriander,2022-10-21,130,74,65,-7,56,3:24,0,25,576,6208,Rock
+594,Monster,Hotel Fiction,2022-09-16,145,73,41,-6,26,5:33,5,34,577,5333,Rock
+595,Nothing To Lose,The Howlers,2022-07-20,124,90,54,-6,54,2:59,0,26,578,9460,Rock
+596,Elvis,Wildermiss,2022-10-12,120,58,56,-8,17,4:47,1,29,110,8174,Rock
+597,Space Between,Lone Wild,2022-10-14,92,72,55,-5,67,3:37,0,36,579,193,Rock
+598,KIDS,auston ghost,2022-10-12,163,93,52,-7,52,2:46,1,33,580,5615,Rock
+599,Some Things Never Change,Priestgate,2022-10-11,124,69,50,-5,24,3:38,0,28,581,5283,Rock
+600,How You Leapt,cartoonhead,2022-10-14,150,58,36,-10,45,3:37,82,22,582,4639,Rock
+601,Can't Deny It,Honeycub,2022-09-29,174,64,38,-7,22,3:59,0,27,583,3675,Rock
+602,Californianated,Unturned,2022-09-09,123,67,37,-8,47,3:44,1,22,111,2900,Rock
+603,Kerosene,Mayfield,2022-09-30,173,89,30,-4,42,3:27,0,26,584,9228,Rock
+604,Loser,Light Grey,2022-10-14,160,89,44,-5,48,3:03,0,27,585,1834,Rock
+605,Your Love,Vixen77,2022-10-14,104,98,40,-6,32,1:49,0,19,586,2206,Rock
+606,Pokit,Beachtape,2022-09-30,116,60,58,-11,62,3:03,0,22,587,3312,Rock
+607,Soft Slam,Slow Joy,2022-08-12,133,69,32,-8,26,2:45,0,36,588,1326,Rock
+608,Phenomenal,L'FREAQ,2022-09-01,135,82,77,-7,92,4:00,3,29,589,3887,Rock
+609,Pop Queen (feat. Elena Steri),Shitney Beers,2022-10-05,120,90,59,-8,74,1:58,0,30,590,435,Rock
+610,Alibi,Jasper Wilderness,2021-11-12,115,70,60,-7,24,2:58,0,22,591,8711,Rock
+611,Change,Waterfall Strainer,2022-10-07,172,68,50,-7,63,2:33,40,22,592,4106,Rock
+612,Traffic Lights,Bikini Beach,2022-10-06,150,84,38,-7,53,2:09,0,32,593,8499,Rock
+613,Lemondrops (Radio Edit),Blair Gun,2022-09-28,106,93,56,-7,73,2:20,0,20,594,843,Rock
+614,Hell In A Cell,Jobber,2022-09-27,106,81,56,-5,46,4:08,0,22,595,4225,Rock
+615,Bronze Tonight,The Sheratons,2022-09-26,100,85,55,-5,51,3:08,0,23,596,3251,Rock
+616,Tuning In,Teen Mortgage,2022-08-26,100,90,59,-5,26,1:55,0,48,604,7633,Rock
+617,In the Moment,Regulate,2022-09-30,105,99,24,-4,30,2:40,0,35,605,6054,Rock
+618,Snvkes,PLAIINS,2022-06-29,161,90,43,-4,63,2:34,0,27,606,4903,Rock
+619,Face To Face,Troubled Minds,2022-09-23,142,88,40,-4,34,3:01,0,19,607,4440,Rock
+620,EARTHBOUND,weyside,2022-09-30,166,89,50,-6,30,2:37,1,26,608,6484,Rock
+621,Death to the Landlord,Meryl Streek,2022-09-06,121,72,77,-6,37,5:31,3,25,609,6693,Rock
+622,Stone,Clementine,2022-09-27,127,86,42,-4,11,3:34,0,22,610,7267,Rock
+623,Renter Not a Buyer,Dead Gowns,2022-09-13,108,76,62,-4,77,2:53,8,21,611,719,Rock
+624,Bloodshot,The Mammoths,2022-08-12,95,90,54,-6,47,4:21,0,27,612,1654,Rock
+625,Like You,Miss Grit,2022-09-21,93,58,69,-9,19,3:50,10,35,613,1141,Rock
+626,Time Should Wait,Twin Suns,2022-09-02,200,69,33,-6,70,3:26,1,30,614,9283,Rock
+627,Eclipse,Prima Queen,2022-08-24,147,93,48,-7,76,4:07,0,40,615,800,Rock
+628,Pirate Radio,Sweet Lizzy Project,2022-10-07,148,73,54,-5,48,3:20,1,17,616,9991,Rock
+629,Change,Frass Green,2022-09-09,120,71,47,-8,40,4:28,0,17,617,1766,Rock
+630,The Wiper,Harvey Rushmore & the Octopus,2022-09-09,155,90,29,-5,73,2:58,0,23,618,4630,Rock
+631,Narc,Cutouts,2022-09-07,98,84,63,-8,49,2:46,4,37,619,4376,Rock
+632,The Healing,Ghost Light,2022-09-21,110,88,52,-4,81,4:02,5,20,620,1691,Rock
+633,words that kill,Ty Lorenzo,2022-09-09,180,87,48,-4,69,2:56,6,32,621,9397,Rock
+634,Spring,chemical club,2022-05-27,140,82,52,-7,67,2:46,0,27,622,7610,Rock
+635,Charlie,Sam Valdez,2022-09-21,106,75,68,-8,54,3:41,24,29,623,4015,Rock
+636,The Mirror,RL,2022-09-23,99,66,72,-9,96,2:38,1,20,624,1906,Rock
+637,New Dress,Dentist,2022-09-02,170,86,46,-6,74,3:32,0,19,625,9846,Rock
+638,ERUPT,Rain on Fridays,2022-08-31,166,97,31,-2,54,4:11,1,25,626,6619,Rock
+639,Make You Mad,87 Nights,2022-08-05,152,96,41,-2,60,4:04,1,35,627,563,Rock
+640,Decay,Wildermiss,2022-09-07,150,60,51,-8,25,3:08,2,23,803,5268,Rock
+641,BWP,The Paranoyds,2022-09-09,107,59,68,-6,25,3:45,0,30,628,4190,Rock
+642,"Long, Long Road",The Mease,2022-09-02,144,86,42,-12,72,3:06,0,18,629,9272,Rock
+643,Blood Money,The Lounge Society,2022-08-26,161,95,28,-5,49,3:32,0,32,630,1405,Rock
+644,I'd Run Away With You,The High Curbs,2022-09-16,148,82,26,-5,77,2:12,0,27,631,6949,Rock
+645,Chemical Emotion,Jeen,2022-09-09,91,80,39,-5,47,3:11,11,24,632,8645,Rock
+646,You Got It Wrong,Strange Weekend,2022-09-09,171,94,28,-5,56,2:48,12,17,633,4652,Rock
+647,If You Know,Unturned,2022-08-15,135,90,56,-6,91,2:00,0,19,804,7405,Rock
+648,The Acolyte,Veronica Everheart,2022-08-22,132,93,53,-8,31,2:58,0,23,634,5132,Rock
+649,Special,Lindsay Coulson,2022-08-08,102,62,56,-7,56,3:32,12,23,635,5597,Rock
+650,High Contrast,New Junk City,2022-09-16,183,97,30,-5,35,2:19,0,22,636,7020,Rock
+651,Time Waits For No One,Stanleys,2022-09-09,102,68,66,-6,72,3:05,40,26,637,2146,Rock
+652,Family Man,THUS LOVE,2022-08-23,130,80,45,-5,50,3:29,0,24,638,4190,Rock
+653,.SYSTVMRVSTVRT*,Real Fake Flowers,2022-08-12,142,56,44,-8,41,2:44,10,19,639,4146,Rock
+654,Not Nancy,Mila Degray,2022-08-17,132,64,46,-9,20,2:59,0,25,640,8350,Rock
+655,Truth Or Dare,Carry The Crown,2022-08-16,148,99,50,-3,50,2:53,1,24,641,7884,Rock
+656,OFFLINE,James Mantis,2022-10-07,114,64,72,-9,74,2:30,35,32,40,8071,Rock
+657,SIMPLE (feat. I DONT KNOW HOW BUT THEY FOUND ME),DE'WAYNE,2022-10-05,117,91,61,-4,69,2:52,1,50,538,7281,Rock
+658,Sitting on Ice,psykhi,2022-10-05,120,71,64,-6,45,2:59,46,26,112,4138,Rock
+659,Rage,Rico Nasty,2018-06-15,140,90,84,-3,73,2:21,4,52,475,5282,Rock
+660,Memories (with WILLOW),YUNGBLUD,2022-05-06,182,92,43,-5,63,2:36,0,59,885,9499,Rock
+661,12gauge!,Sadfriendd,2022-10-07,135,86,65,-5,24,1:29,0,49,642,3085,Rock
+662,CRUMBLE,James Mantis,2022-07-29,146,81,63,-7,29,2:15,3,27,476,8281,Rock
+663,"""Filthy""",Ayron Jones,2022-08-26,122,74,48,-6,33,3:01,0,48,805,967,Rock
+664,Mood Hoover,Connie Constance,2022-08-31,139,73,73,-5,93,3:15,31,40,863,4675,Rock
+665,nothing (in my head),Pinkshift,2022-06-01,94,98,18,-1,52,3:05,0,37,864,532,Rock
+666,LOVE ME HATE ME,Kayzo,2022-06-23,170,99,41,-1,39,3:35,1,31,643,5078,Rock
+667,i want to die in your arms,EKKSTACY,2022-08-26,175,85,45,-5,67,2:17,0,47,477,877,Rock
+668,DIRTY WHITE VANS REMIX// (feat. Wiz Khalifa),KennyHoopla,2022-05-06,165,79,50,-5,52,2:21,46,45,806,3293,Rock
+669,schizophrenia,XXXTENTACION,2018-03-16,180,35,61,-10,24,1:20,8,57,644,5162,Rock
+670,Change,Jany Green,2022-08-04,101,73,57,-5,50,2:51,0,28,113,345,Rock
+671,•OUTSIDE•,Tom The Mail Man,2022-08-25,164,82,60,-5,89,1:46,1,41,865,5973,Rock
+672,Little,Jany Green,2020-05-14,110,62,82,-8,75,2:37,24,40,807,9111,Rock
+673,Don't Look At Me,POORSTACY,2020-07-24,77,83,54,-7,29,3:08,1,60,114,2033,Rock
+674,PURGE ft. Siiickbrain,WILLOW,2022-04-01,150,85,49,-4,34,2:37,0,49,896,5719,Rock
+675,"Metal, Whips, & Chains",Zhariah,2018-12-07,120,76,61,-5,25,4:58,14,20,115,4147,Rock
+676,GOOD MOOD (feat. grandson),DE'WAYNE,2022-06-02,90,91,56,-4,59,2:35,1,48,717,8726,Rock
+677,STUPID (feat. Yung Baby Tate),Ashnikko,2019-07-12,150,64,77,-7,54,2:47,0,68,808,5358,Rock
+678,Celebrity Skin,Doja Cat,2022-02-11,134,89,48,-5,41,2:40,0,59,645,9766,Rock
+679,"in this world of mona lisa's, you’re my jackson pollock",poptropicaslutz!,2022-05-06,138,98,61,-4,64,2:38,2,33,478,7552,Rock
+680,DIE OUT HERE (feat. POORSTACY),DE'WAYNE,2022-04-08,75,85,59,-6,65,2:14,1,51,895,1539,Rock
+681,Hi-De-Ho,Jack White,2022-03-03,114,58,69,-7,36,3:57,54,37,809,8304,Rock
+682,Feel A Thing,Meet Me @ The Altar,2021-06-16,110,98,55,0,71,3:27,0,39,866,1007,Rock
+683,Nothing Feels The Same,Chris Miles,2022-02-18,176,89,42,-5,38,2:27,2,0,646,9462,Rock
+684,Puzzles,Nova Twins,2022-05-11,89,95,58,-5,39,2:42,2,43,479,6626,Rock
+685,Cigarettes,Juice WRLD,2022-03-18,160,61,59,-6,45,3:48,3,77,647,4060,Rock
+686,In Situ,Bloc Party,2022-04-29,165,88,48,-5,53,2:55,2,46,648,9613,Rock
+687,Wait,M.A.G.S.,2021-07-30,164,90,24,-6,42,3:58,0,24,649,4718,Rock
+688,In My Head (feat. Travis Barker),24kGoldn,2022-03-25,160,71,67,-5,53,2:10,0,64,650,1695,Rock
+689,Chelsea Hotel,Zhariah,2022-04-15,120,65,58,-9,45,3:40,0,17,810,1446,Rock
+690,Body Language,Mint Green,2022-06-03,145,80,53,-5,40,4:08,0,29,651,3825,Rock
+691,Feel Something,Magnolia Park,2022-05-20,140,95,57,-4,49,3:00,0,48,867,885,Rock
+692,Art of War (feat. Denzel Curry & Rico Nasty),Jasiah,2021-06-04,139,79,78,-6,76,3:06,4,55,652,1376,Rock
+693,Heavy Heart,Bartees Strange,2022-03-01,134,85,25,-6,23,4:24,0,33,116,4030,Rock
+694,Smack a Bitch,Rico Nasty,2018-01-17,170,70,70,-2,34,2:18,1,59,868,2727,Rock
+695,Nine Inch Nail,Chief Cleopatra,2022-03-04,89,72,57,-9,36,3:54,7,17,653,6506,Rock
+696,i gave you everything,EKKSTACY,2022-06-03,168,68,44,-9,33,2:38,0,46,869,9515,Rock
+697,junky,Cam Kahin,2022-03-24,148,64,52,-8,56,3:24,17,21,654,8276,Rock
+698,SUCKAPUNCH,James Mantis,2022-03-04,90,82,58,-7,31,2:27,1,37,870,7454,Rock
+699,Barricades,Action/Adventure,2021-04-07,93,96,45,-4,39,1:00,0,16,655,5869,Rock
+700,seaside_demo,SEB,2021-05-17,95,82,71,-8,86,2:12,36,69,811,1177,Rock
+701,Kids Don't Buy Groceries,Hyattsvillain,2022-03-04,95,84,55,-6,62,2:04,7,19,656,4905,Rock
+702,Abuse Me (ft. L'exquisite Douleur),POORSTACY,2022-04-28,105,94,42,-2,12,3:08,0,40,812,3712,Rock
+703,Mary On A Cross,Ghost,2019-09-13,130,90,47,-4,56,4:05,0,86,813,1595,Rock
+704,Running Up That Hill (A Deal With God) - 2018 Remaster,Kate Bush,1985-09-16,108,53,63,-12,14,5:01,66,82,657,8918,Rock
+705,Can't Stop,Red Hot Chili Peppers,2002-07-09,91,94,62,-3,88,4:29,2,81,227,5311,Rock
+706,The Kids Aren't Alright,The Offspring,1998-11-16,100,94,52,-4,77,3:00,1,80,480,1815,Rock
+707,The Middle,Jimmy Eat World,2001-07-17,162,85,64,-5,90,2:46,4,80,814,2163,Rock
+708,How You Remind Me,Nickelback,2001-09-11,172,76,45,-5,54,3:44,0,79,673,6050,Rock
+709,Bitter Sweet Symphony,The Verve,1997-09-29,171,92,36,-6,52,5:57,3,79,658,1179,Rock
+710,Stairway to Heaven - Remaster,Led Zeppelin,1971-11-08,82,34,34,-12,20,8:03,58,78,659,2662,Rock
+711,The Adults Are Talking,The Strokes,2020-04-10,165,75,59,-6,65,5:09,1,77,660,2123,Rock
+712,Drops of Jupiter (Tell Me),Train,2001-03-27,79,64,48,-6,50,4:20,15,77,661,6530,Rock
+713,I Still Haven't Found What I'm Looking For,U2,1987-03-03,101,77,56,-9,66,4:37,1,76,117,7182,Rock
+714,When You Were Young,The Killers,2006-09-27,130,99,47,-3,32,3:40,0,76,41,6954,Rock
+715,Learn to Fly,Foo Fighters,1999-11-02,136,92,47,-4,54,3:55,0,76,11,6471,Rock
+716,Come Together - Remastered 2009,The Beatles,1969-09-26,165,38,53,-12,19,4:20,3,76,662,2206,Rock
+717,Gimme Shelter,The Rolling Stones,1969-12-05,119,63,63,-8,49,4:31,45,76,663,2395,Rock
+718,Uprising,Muse,2009-09-10,128,91,60,-4,41,5:05,0,75,451,757,Rock
+719,Baba O'Riley,The Who,1971-08-14,117,72,49,-8,15,5:00,31,75,664,6269,Rock
+720,Master of Puppets (Remastered),Metallica,1986-03-03,105,83,54,-9,56,8:35,0,74,665,384,Rock
+721,Dreams,The Cranberries,1993-03-01,129,64,55,-13,51,4:32,0,74,666,6403,Rock
+722,Bulls On Parade,Rage Against The Machine,1996-04-16,166,92,41,-7,57,3:49,1,74,667,7091,Rock
+723,Comfortably Numb,Pink Floyd,1979-11-30,127,37,47,-13,17,6:22,15,72,668,642,Rock
+724,Barracuda,Heart,1977-05-14,137,69,55,-14,67,4:22,2,72,669,4839,Rock
+725,Best of You,Foo Fighters,2005-06-14,130,94,37,-5,37,4:16,0,75,304,990,Rock
+726,London Calling - Remastered,The Clash,1979,134,80,65,-7,78,3:20,12,72,118,9114,Rock
+727,Blue Monday,New Order,1987-08-17,130,65,76,-13,94,7:29,0,71,119,6845,Rock
+728,Starlight,Muse,2006-06-19,122,87,55,-4,32,4:00,0,73,674,5186,Rock
+729,All These Things That I've Done,The Killers,2004,118,70,54,-7,21,5:02,0,71,481,5861,Rock
+730,Shout,Tears For Fears,1985-02-25,98,94,51,-10,50,6:34,17,71,670,8162,Rock
+731,Black Summer,Red Hot Chili Peppers,2022-02-04,106,68,42,-5,35,3:52,3,70,452,1832,Rock
+732,Under Pressure - Remastered 2011,Queen,1982-05-03,114,71,67,-8,47,4:08,42,69,120,3492,Rock
+733,My Hero,Foo Fighters,1997-05-20,77,93,40,-4,31,4:20,0,75,603,4324,Rock
+734,Could Have Been Me,The Struts,2016-03-04,80,91,54,-5,43,3:08,2,69,815,4813,Rock
+735,Paradise By the Dashboard Light,Meat Loaf,1977-10-21,173,87,33,-8,49,8:28,21,69,121,3175,Rock
+736,Love Will Tear Us Apart - 2020 Remaster,Joy Division,1980-06-01,147,92,53,-7,90,3:28,0,69,671,7036,Rock
+737,Bigmouth Strikes Again - 2011 Remaster,The Smiths,1986-06-16,135,90,40,-5,84,3:13,7,69,122,3179,Rock
+738,Heart Of Glass - Special Mix,Blondie,1981-10-31,114,58,69,-15,85,4:36,2,69,676,4647,Rock
+739,Common People,Pulp,1995-10-30,145,80,31,-9,57,5:52,1,68,123,5854,Rock
+740,Because the Night,Patti Smith,1978,124,76,47,-8,47,3:25,5,68,677,9792,Rock
+741,Time is Running Out,Muse,2004-03-23,118,84,59,-6,43,3:57,0,68,891,7380,Rock
+742,All My Life,Foo Fighters,2002-10-22,168,60,58,-6,64,4:23,0,73,886,2098,Rock
+743,Girls & Boys,Blur,2000-10-23,120,88,69,-8,90,4:19,1,68,124,9231,Rock
+744,Town Called Malice,The Jam,1982-03-12,102,91,54,-9,78,2:53,0,68,125,4597,Rock
+745,I Hate Myself for Loving You,Joan Jett & the Blackhearts,1988-05-23,118,88,61,-11,61,4:07,8,67,126,8122,Rock
+746,Once in a Lifetime - 2005 Remaster,Talking Heads,1980-10-08,117,92,64,-6,87,4:20,18,67,678,6335,Rock
+747,The Drummer,Red Hot Chili Peppers,2022-10-14,175,89,54,-6,78,3:23,1,67,675,6975,Rock
+748,Waste A Moment,Kings of Leon,2016-10-14,153,85,44,-5,54,3:03,0,66,679,5816,Rock
+749,Panic - 2011 Remaster,The Smiths,1987,130,86,53,-5,84,2:21,2,65,816,4389,Rock
+750,Live Forever - Remastered,Oasis,1994,91,82,29,-3,19,4:37,0,65,680,7307,Rock
+751,Age of Consent - 2015 Remaster,New Order,1983-05-02,162,91,37,-6,76,5:15,0,65,817,5881,Rock
+752,Bad Reputation,Joan Jett & the Blackhearts,1981-01-23,204,97,38,-4,82,2:49,0,67,818,2007,Rock
+753,Those Days,Nickelback,2022-10-05,166,92,50,-5,67,3:39,0,64,892,3891,Rock
+754,Ashes to Ashes - 2017 Remaster,David Bowie,1980,120,74,71,-11,87,4:26,27,64,681,7930,Rock
+755,Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version,Buzzcocks,1978,176,83,27,-9,78,2:44,0,64,682,4481,Rock
+756,American Woman,Lenny Kravitz,1998-05-12,84,67,69,-8,54,4:25,3,64,683,404,Rock
+757,Beautiful Day,U2,2000-01-01,136,93,54,-6,45,4:06,1,63,819,3831,Rock
+758,Pneuma,TOOL,2019-08-30,114,53,42,-9,6,11:53,0,63,684,5837,Rock
+759,Monkey Gone to Heaven,Pixies,1989-04-17,117,39,65,-11,57,2:55,0,63,685,5967,Rock
+760,Let The Bad Times Roll,The Offspring,2021-08-20,159,98,50,-1,60,3:19,0,62,871,7447,Rock
+761,Bat Out of Hell,Meat Loaf,1977-10-21,172,84,20,-8,39,9:50,28,62,820,9475,Rock
+762,Parklife - 2012 Remaster,Blur,1994-04-25,139,89,63,-6,72,3:05,12,62,821,8125,Rock
+763,Protect The Land,System Of A Down,2020-11-06,76,89,43,-4,25,5:08,0,62,686,4334,Rock
+764,Just Can't Get Enough - 2006 Remaster,Depeche Mode,1981-11-02,128,77,77,-9,92,3:43,41,61,687,4264,Rock
+765,Turn Back the Hands of Time,Bruce Springsteen,2022-11-11,116,85,66,-3,86,3:07,6,62,127,4659,Rock
+766,Tippa My Tongue,Red Hot Chili Peppers,2022-08-19,88,91,57,-7,80,4:21,1,61,893,7167,Rock
+767,That's Entertainment,The Jam,1980-11-28,142,65,57,-12,78,3:33,21,61,822,5924,Rock
+768,Babies,Pulp,1994-04-18,156,85,30,-7,59,4:05,10,61,823,1514,Rock
+769,Love Spreads,The Stone Roses,1994-12-05,91,88,44,-8,59,5:47,0,60,688,4226,Rock
+770,In Between Days - 2006 Remaster,The Cure,1985-08-26,143,83,54,-6,71,2:58,11,60,689,9741,Rock
+771,Face It Alone,Queen,2022-10-13,144,41,42,-13,33,4:07,33,59,824,115,Rock
+772,Suite: Judy Blue Eyes - 2005 Remaster,"Crosby, Stills & Nash",1969-05-29,154,36,46,-13,30,7:24,47,60,690,287,Rock
+773,Do I Love You (Indeed I Do),Bruce Springsteen,2022-09-29,134,94,55,-3,88,2:27,0,60,825,4167,Rock
+774,The Passenger,Siouxsie and the Banshees,1987-03-02,140,93,46,-5,29,5:09,3,59,691,3235,Rock
+775,The Guns of Brixton - Remastered,The Clash,1979,96,61,74,-9,68,3:12,0,59,826,9547,Rock
+776,Love Is The Drug,Roxy Music,1975-10-01,125,76,84,-5,60,4:11,6,59,692,8195,Rock
+777,Caution,The Killers,2020-08-21,178,89,23,-5,8,4:30,2,58,872,2930,Rock
+778,Satellite of Love,Lou Reed,1972-12-01,122,50,46,-10,57,3:41,44,58,693,6809,Rock
+779,Face Down,Present,2022-07-16,110,90,55,-4,48,3:23,0,39,694,7514,Rock
+780,Under The Knife,BRKN LOVE,2022-09-08,143,93,49,-5,61,2:56,0,41,873,761,Rock
+781,Heavy Is The Ocean,Bush,2022-09-16,117,67,51,-5,17,5:13,1,43,482,7229,Rock
+782,Drain,Softcult,2022-11-02,172,70,29,-7,41,3:22,0,44,128,8189,Rock
+783,Chasing Highs,Luna Bay,2022-09-02,168,49,48,-6,36,3:10,0,32,695,3947,Rock
+784,take it back (feat. Beck),JAWNY,2022-06-17,130,91,63,-2,51,2:26,5,52,696,8591,Rock
+785,Come Apart,Fazerdaze,2022-07-20,111,55,75,-5,47,3:04,2,44,697,3712,Rock
+786,Roosevelt,MAYPINE,2022-07-22,160,77,40,-5,30,3:53,0,20,698,3834,Rock
+787,Stuck In A Loop,Soul Blind,2022-07-26,106,96,43,-3,17,2:53,0,41,129,499,Rock
+788,Woohoo,Fleshwater,2022-11-04,87,95,17,-3,16,3:44,0,45,874,3329,Rock
+789,Beauty and Grace,Witch Fever,2022-10-21,92,78,43,-5,62,2:09,0,32,827,5094,Rock
+790,Self Portrait,Surf Curse,2022-10-07,152,80,58,-4,65,3:32,5,46,699,1695,Rock
+791,Circling the Drain,Microwave,2022-04-08,164,73,38,-5,41,3:49,3,46,700,2507,Rock
+792,Killing Time,Bleed,2022-10-05,163,98,37,-7,22,3:14,0,39,701,7051,Rock
+793,Black Sky,Healing,2022-09-30,88,78,48,-5,14,3:46,0,27,702,237,Rock
+794,"Wasted Days, Wasted Years",Anxious Arms,2022-07-22,90,85,37,-6,14,3:44,0,23,703,166,Rock
+795,The Drugs,Frank Carter & The Rattlesnakes,2022-10-18,168,97,36,-2,36,1:58,5,52,828,7958,Rock
+796,Sick Sense,LEAP,2022-10-12,117,97,51,-6,22,3:32,0,24,704,8155,Rock
+797,Sans Soleil,Alexisonfire,2022-05-19,149,85,36,-6,39,5:05,1,40,705,1634,Rock
+798,Felíz,Quicksand,2022-10-25,106,93,45,-3,21,2:48,0,42,130,9229,Rock
+799,Money (Hope Ain’t Gone),STONE,2022-10-17,140,94,51,-4,63,4:06,0,42,829,7292,Rock
+800,Failing Grace,Attendant,2022-10-28,160,83,48,-7,61,3:04,0,30,706,2811,Rock
+801,Self Doubt,Moonball,2022-09-02,75,96,36,-6,27,2:59,0,26,830,9351,Rock
+802,Crosshairs,Parti!,2022-11-04,147,95,47,-2,43,2:58,0,37,707,5039,Rock
+803,Rejoice,Dull Mourning,2022-07-22,159,93,23,-5,34,3:00,0,23,708,289,Rock
+804,Won't You Love Me,Liotta Seoul,2022-11-11,155,95,33,-4,46,3:12,0,38,131,803,Rock
+805,Follow You Down,Vistas,2022-10-21,126,95,63,-4,55,2:16,0,43,709,6201,Rock
+806,Recovery,SPICE,2022-05-20,131,95,54,-2,53,3:08,0,30,710,2762,Rock
+807,Out Of the Dark and into the Light,HIMALAYAS,2022-09-23,113,75,33,-3,37,3:00,0,36,831,462,Rock
+808,Star,Liotta Seoul,2022-10-07,94,88,36,-5,50,3:35,0,32,832,481,Rock
+809,Godzilla,Dude Safari,2022-09-23,86,86,44,-4,57,3:52,0,26,711,1309,Rock
+810,I'm Feelin Alive,Webbed Wing,2022-09-26,145,99,42,-1,50,2:09,0,35,712,3175,Rock
+811,Open Your Eyes and Dream,Thrice,2022-09-20,135,91,51,-5,29,4:02,0,45,713,9220,Rock
+812,Tribe,Soul Blind,2022-10-12,133,96,40,-4,21,3:28,0,38,833,7299,Rock
+813,Kamikaze,Violent Soho,2022-07-12,148,97,46,-4,25,3:23,0,34,714,9541,Rock
+814,Emteevee,Indigo Blaze,2022-11-04,124,97,58,-1,65,2:50,1,15,715,3525,Rock
+815,BREAK ME,Cotton Eye,2022-10-22,98,91,31,-6,46,5:06,0,26,716,2668,Rock
+816,Two Tone Marionette,NVM,2022-10-28,180,91,12,-5,26,4:41,0,32,718,3977,Rock
+817,Waltzer,October Drift,2022-08-31,128,72,51,-8,32,4:00,0,28,132,7898,Rock
+818,Giving The Past Away,Quicksand,2022-08-31,137,83,52,-3,70,3:31,0,34,834,8907,Rock
+819,Csts,The Joy Formidable,2022-09-14,88,91,44,-2,24,4:55,1,25,719,4350,Rock
+820,Wayfinding,Chappaqua Wrestling,2022-09-21,142,73,50,-5,63,3:09,0,41,720,6614,Rock
+821,Cottonmouth,False Heads,2022-09-30,92,89,38,-5,43,3:58,0,29,835,6166,Rock
+822,Daisy,Superbloom,2022-08-26,93,96,40,-5,33,3:10,0,34,721,9036,Rock
+823,Heaven Can Wait,LOSER,2022-10-20,150,96,38,-4,47,3:00,0,32,722,3889,Rock
+824,In Your Way,Gleemer,2022-07-14,184,69,49,-7,28,3:55,0,38,723,9421,Rock
+825,Happy In Town,The Cribs,2022-10-28,76,99,29,-2,6,3:40,1,36,724,2327,Rock
+826,Lost Without You,October Drift,2022-10-14,148,82,38,-7,29,3:51,0,33,836,569,Rock
+827,Violet,Ivory Daze,2022-10-28,107,43,42,-6,12,4:18,0,26,725,2048,Rock
+828,Joy Thief,Dosser,2022-09-02,150,98,39,-6,8,3:58,0,24,726,4997,Rock
+829,Sunday,Sun Puddle,2022-08-12,106,82,35,-5,24,3:44,24,25,727,5070,Rock
+830,Welcome To The Circus,Five Finger Death Punch,2022-08-19,140,99,49,-5,30,4:17,0,67,837,1118,Rock
+831,Unstoppable,Disturbed,2022-09-23,121,99,53,-2,34,3:58,0,66,887,8960,Rock
+832,Kill The Noise,Papa Roach,2022-04-08,95,87,53,-5,61,3:08,0,61,838,8193,Rock
+833,This is War,Alter Bridge,2022-10-04,164,93,38,-5,32,4:04,0,50,839,8009,Rock
+834,Self-Destruction,I Prevail,2022-08-19,172,98,42,-5,39,2:26,0,67,875,2485,Rock
+835,Permanent Rebellion,L.S. Dunes,2022-08-26,177,99,36,-3,23,3:14,0,56,876,7513,Rock
+836,MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage),Anti-Flag,2022-10-05,168,98,36,-4,33,3:36,0,45,840,1379,Rock
+837,Find Life,Amaranthe,2022-10-06,140,95,52,-6,37,3:04,0,54,728,1949,Rock
+838,Ditch,Lamb of God,2022-10-07,75,96,50,-5,44,3:38,0,54,841,2989,Rock
+839,Coming For Blood (feat. From Ashes To New),Eva Under Fire,2022-09-23,160,91,50,-4,55,3:29,0,47,842,8329,Rock
+840,Arrow of Love,Electric Callboy,2022-09-16,75,86,45,-7,62,3:43,0,63,729,545,Rock
+841,Gatekeepers,Icon For Hire,2022-09-30,168,86,54,-4,52,3:28,0,48,730,4517,Rock
+842,Dicke Titten,Rammstein,2022-04-29,117,82,63,-5,56,3:39,2,73,731,1751,Rock
+843,Temple Of Ekur,Volbeat,2021-12-03,168,92,43,-7,57,4:19,0,61,843,1909,Rock
+844,Time Bomb,Skid Row,2022-10-14,171,91,48,-6,34,4:15,0,37,844,7872,Rock
+845,when we were young,Architects,2022-04-20,170,94,44,-3,44,3:14,0,58,845,862,Rock
+846,More Than Machines,Bush,2022-07-27,93,84,51,-4,73,3:22,0,49,877,1019,Rock
+847,Start The Healing,Korn,2022-02-04,150,95,47,-3,41,3:28,0,54,846,1371,Rock
+848,Growing Up,The Linda Lindas,2022-04-08,145,81,60,-4,69,3:06,0,43,732,5,Rock
+849,.intoodeep.,Dead Poet Society,2021-03-12,125,67,59,-6,50,3:40,0,57,733,2438,Rock
+850,Heavy Heart - Edit,Bartees Strange,2022-03-01,134,84,48,-7,33,3:46,0,27,847,8153,Rock
+851,abcdefu (angrier),GAYLE,2021-09-24,122,60,67,-6,45,2:40,7,70,848,5773,Rock
+852,SENSITIVE,MOTHICA,2022-03-11,95,55,70,-7,65,2:16,23,45,888,9068,Rock
+853,Want You Like That,Charlotte Sands,2022-01-21,158,62,47,-5,54,2:55,0,47,878,9528,Rock
+854,I Hope You’re Happy,Games We Play,2022-08-26,87,87,54,-4,84,3:00,0,55,849,285,Rock
+855,Life's a Bitch (But I Like it So Much),The Mysterines,2022-03-11,162,79,28,-4,29,2:50,0,45,734,1570,Rock
+856,FUCKBOI REJECTS,Royal & the Serpent,2022-01-07,172,90,49,-4,53,2:07,2,53,894,9804,Rock
+857,PORN ACTING*,Jean Dawson,2022-02-25,184,74,41,-5,64,2:52,3,45,889,6627,Rock
+858,Uzumaki,Softcult,2022-02-04,170,73,33,-6,37,3:31,0,39,850,6886,Rock
+859,debbie downer,LØLØ,2022-02-10,90,93,56,-3,69,2:40,1,50,879,1093,Rock
+860,K.M.B.,Nova Twins,2022-02-02,77,77,56,-6,42,3:15,0,38,880,3066,Rock
+861,Mayhem,Cassyette,2022-02-17,120,75,60,-4,42,2:41,0,43,881,7861,Rock
+862,AFTER THERAPY (feat. Hot Mulligan),NOAHFINNCE,2022-06-03,184,85,44,-6,58,2:21,0,43,882,9128,Rock
+863,Mercy Stroke,Pabst,2022-03-18,165,85,26,-9,43,2:45,0,25,735,853,Rock
+864,Children In The Dark,AViVA,2022-02-25,125,65,82,-6,84,2:59,4,42,736,3262,Rock
+865,Destructible,Siiickbrain,2021-11-26,160,91,50,-6,51,2:52,3,41,851,3789,Rock
+866,I Can't Drive,Crawlers,2022-03-21,138,79,54,-4,34,4:08,1,46,890,4663,Rock
+867,Down,Daisy Brain,2022-03-17,147,67,56,-5,62,3:00,6,27,133,5803,Rock
+868,Target Practice,carolesdaughter,2022-01-21,113,59,61,-5,13,2:31,0,41,737,1974,Rock
+869,SO TIRED,lya!,2022-03-11,165,90,38,-4,52,3:36,0,20,738,3457,Rock
+870,Lava Lamp Pisco,Psychedelic Porn Crumpets,2021-10-13,165,91,43,-7,49,4:02,0,28,739,8722,Rock
+871,I.W.G.F.U.,Tigercub,2021-11-24,159,95,52,-7,44,3:37,24,39,852,1756,Rock
+872,White Picket Fence,psykhi,2021-05-10,164,80,55,-5,81,2:56,10,31,853,8932,Rock
+873,Hide,Day Aches,2022-03-19,155,79,27,-5,27,3:01,0,21,740,8265,Rock
+874,TV or Not TV,Liily,2021-10-22,115,67,68,-6,56,3:40,0,35,741,2485,Rock
+875,Therapy 2,Electric Enemy,2022-03-25,160,79,39,-5,45,3:03,0,29,742,9836,Rock
+876,Monster,Stare At The Sun,2022-03-19,130,73,63,-7,38,3:58,0,17,743,7550,Rock
+877,Hearts & Minds,Pillow Queens,2022-02-10,124,74,33,-8,42,4:02,3,21,744,1712,Rock
+878,Cherry Picking,poutyface,2022-03-04,82,81,56,-4,79,2:31,2,41,745,8774,Rock
+879,Bones,The Dead Love,2022-02-17,105,87,64,-4,36,2:42,0,31,746,3186,Rock
+880,LASSO,VUKOVI,2022-03-16,105,85,34,-5,20,2:58,0,34,883,2496,Rock
+881,Stained,KID BRUNSWICK,2021-11-12,170,72,40,-10,44,3:36,0,43,748,7391,Rock
+882,How Does The Story Go?,Sprints,2021-07-23,120,52,48,-8,48,2:28,0,33,749,4379,Rock
+883,Bed/Head,Lazy Queen,2022-03-18,108,83,40,-8,48,4:17,0,16,750,6580,Rock
+884,AHHHH!,Teen Jesus and the Jean Teasers,2021-07-23,154,94,45,-5,60,2:25,0,45,751,9731,Rock
+885,See Through You,Spyres,2022-01-14,105,87,51,-5,36,3:44,0,30,752,3307,Rock
+886,Drive Me Home,Orchards,2021-09-30,98,84,50,-6,38,3:18,2,21,753,2132,Rock
+887,the last time i was scared was when you caught me trying to kill you,poptropicaslutz!,2022-03-22,173,96,46,-4,37,2:15,2,27,884,5395,Rock
+888,Salma Hayek,WARGASM (UK),2021-08-20,122,92,65,-6,64,3:40,0,42,754,1749,Rock
+889,I Just Want That Movie Ending,Blood Command,2022-07-01,143,85,43,-5,29,4:30,0,31,755,7646,Rock
+890,What Would You Do?,Daisy Brain,2022-02-17,108,75,59,-5,44,2:22,3,21,854,7098,Rock
+891,Charlie's Car,Lauran Hibberd,2021-10-27,135,76,70,-3,81,2:41,3,24,756,8217,Rock
+892,Alright,Bad Nerves,2022-03-21,96,96,30,-5,53,2:37,0,41,757,2766,Rock
+893,Anti-glory,Horsegirl,2022-03-09,135,88,45,-7,43,3:31,2,36,758,6102,Rock
+894,I'm a Moth!!,LIA LIA,2022-02-09,165,86,60,-7,68,2:07,4,39,759,4727,Rock
+895,Boy,PÆRISH,2021-11-12,71,77,17,-5,9,3:22,0,25,760,3852,Rock
+896,Bullet Farm,Dead Pony,2022-03-24,83,89,54,-5,66,3:11,0,35,761,2261,Rock
+897,Endgame,The Clockworks,2022-03-18,77,89,43,-6,38,2:37,0,35,762,3376,Rock
